@@ -8,7 +8,7 @@ if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir)
 
 const app = jsonServer.create()
 const router = jsonServer.router('db.json')
-const middlewares = jsonServer.defaults({ static: false })
+const middlewares = jsonServer.defaults({ static: publicDir })
 
 // CORS — разрешаем запросы с любого домена
 app.use((req, res, next) => {
