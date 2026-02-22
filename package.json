@@ -1,6 +1,7 @@
 {
   "name": "task-advisor-api",
   "version": "1.0.0",
+  "type": "module",
   "description": "Mock REST API for Task Advisor (json-server)",
   "scripts": {
     "start": "node server.js"
