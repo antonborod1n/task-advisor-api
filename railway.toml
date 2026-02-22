@@ -1,2 +1,2 @@
-[deploy]
-startCommand = "node server.js"
+[build]
+builder = "dockerfile"

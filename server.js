@@ -1,12 +1,14 @@
-import jsonServer from 'json-server'
-import { mkdirSync } from 'fs'
+const jsonServer = require('json-server')
+const path = require('path')
+const fs = require('fs')
 
-// json-server требует папку public — создаём если нет
-try { mkdirSync('./public') } catch {}
+// json-server требует папку public
+const publicDir = path.join(__dirname, 'public')
+if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir)
 
 const app = jsonServer.create()
 const router = jsonServer.router('db.json')
-const middlewares = jsonServer.defaults()
+const middlewares = jsonServer.defaults({ static: false })
 
 // CORS — разрешаем запросы с любого домена
 app.use((req, res, next) => {
