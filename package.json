@@ -4,6 +4,7 @@
   "type": "module",
   "description": "Mock REST API for Task Advisor (json-server)",
   "scripts": {
+    "build": "npm install",
     "start": "node server.js"
   },
   "dependencies": {
