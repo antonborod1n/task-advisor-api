@@ -24,6 +24,9 @@ app.use((req, res, next) => {
   next()
 })
 
+// Health check endpoint для Railway
+app.get('/health', (req, res) => res.sendStatus(200))
+
 app.use(middlewares)
 app.use(router)
 
