@@ -9,15 +9,15 @@
       "confirm": true,
       "userId": "1",
       "url": "zamochnyy-master",
-      "img": "blob:http://localhost:3000/2fd5d318-62e9-458c-ac39-a533473a82f6",
+      "img": "/images/content/company/2.png",
       "name": "Замочный мастер",
       "rating": 4.9,
       "grade": 4.8,
       "gradeText": "качественно",
       "reviews": 2895,
-      "opening": "ежедневно с 02:00 - 05:40, выходные: пн, вт, ср 04:00 - 06:00",
+      "opening": "ежедневно с 08:00 - 18:00",
       "whenopen": "откроется через 10 минут",
-      "city": "Лыткарино",
+      "city": "Балашиха, Реутов, Троицк",
       "price": 500,
       "fixPrice": true,
       "tips": [
@@ -26,7 +26,7 @@
       ],
       "favorite": false,
       "hasReview": true,
-      "mobile": "+7 (111) 111-11-11",
+      "mobile": "+7 (029) 504-76-85",
       "social": [
         {
           "name": "Telegram",
@@ -55,11 +55,11 @@
       ],
       "metro": "12",
       "address": "ул. Манюшко",
-      "email": "111test@master.ru",
+      "email": "zamochnyy@master.ru",
       "website": "https://acscontrol.ru/",
       "screenshot": "",
-      "slogan": "Тест тест",
-      "description": "Тест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тестТест тест",
+      "slogan": "Надежные замки — спокойный дом!",
+      "description": "Замочный мастер — ваш надежный партнер в мире замков и безопасности уже более 10 лет. Мы открываем двери без повреждений, ремонтируем и устанавливаем замки всех типов: от квартирных и офисных до автомобильных и сейфовых. Работаем 24/7 по всему Минску и области. Профессиональные мастера с гарантией на все услуги. Ваш покой — наша забота!",
       "services": [
         "Ремонт сантехники",
         "Электрика",
@@ -67,51 +67,48 @@
         "Промывка дымо- и газоходов",
         "Работы на участке",
         "Садовники",
-        "Бурение скважин"
+        "Бурение скважин",
+        "Изготовление ключей"
       ],
-      "guarantee": "123321 месяцев",
+      "guarantee": "12 месяцев",
       "faq": [
         {
           "id": "1",
-          "title": "1111111",
-          "text": "22222222222"
+          "title": "Вопрос",
+          "text": "Ответ Ответ Ответ Ответ Ответ Ответ Ответ Ответ Ответ Ответ Ответ Ответ Ответ Ответ Ответ Ответ Ответ Ответ Ответ "
         }
       ],
       "photo": [
         {
-          "id": "1772038413044.9597",
-          "img": "blob:http://localhost:3000/aaae78b1-9a7b-4023-9743-11eb3975d247",
+          "id": "1775630713607.5283",
+          "img": "/images/content/photo/1.jpg",
           "name": "Фото 1"
         },
         {
-          "id": "1772038707149.199",
-          "img": "blob:http://localhost:3000/b2a3acd8-312d-4bd5-a152-252b1ccee17b",
+          "id": "1775630716389.0642",
+          "img": "/images/content/photo/1.jpg",
           "name": "Фото 2"
         },
         {
-          "id": "1772038709751.127",
-          "img": "blob:http://localhost:3000/1dd9f04f-afa6-45e3-942b-f964b2c5673b",
+          "id": "1775630718387.727",
+          "img": "/images/content/photo/1.jpg",
           "name": "Фото 3"
-        },
-        {
-          "id": "1772038712209.7551",
-          "img": "blob:http://localhost:3000/9b73880e-e852-482b-8751-1fc9834def63",
-          "name": "Фото 4"
         }
       ],
       "beforeAfterPhotos": [
         {
-          "id": "1",
+          "id": "1775630727801",
           "before": "/images/content/photo/1.jpg",
-          "after": "/images/content/photo/2.jpg"
+          "after": "/images/content/photo/1.jpg",
+          "description": "Полное/частичное восстановление исторического облика. Улучшение функциональности (например, открытие новых залов для посетителей)."
         }
       ],
       "promo": [
         {
           "id": "1",
           "confirm": false,
-          "img": "blob:http://localhost:3000/5a0015e0-dcee-44bf-b2fa-ee7d496da52a",
-          "name": "12121Скидка 14444440% на вскрытие замков",
+          "img": "/images/content/photo/1.jpg",
+          "name": "40% на вскрытие замков",
           "tip": "Промокод",
           "time": "В течение года"
         }
@@ -119,7 +116,7 @@
       "docs": [
         {
           "id": "1772038567863.417",
-          "img": "blob:http://localhost:3000/ffbacef7-331f-4cec-83b3-6393da206be5",
+          "img": "/images/content/photo/1.jpg",
           "name": "Документ 1"
         }
       ],
@@ -963,7 +960,8 @@
         {
           "id": "1775474120227",
           "before": "/images/content/photo/1.jpg",
-          "after": "/images/content/photo/2.jpg"
+          "after": "/images/content/photo/2.jpg",
+          "description": "Полное/частичное восстановление состояния после выполненных работ."
         }
       ]
     },
@@ -25634,7 +25632,7 @@
         },
         {
           "id": "1772103491361",
-          "img": "blob:http://localhost:3000/49eddec7-5522-4c88-a6ee-dc87dc3b8f60",
+          "img": "/images/content/photo/1.jpg",
           "name": "screenshot1.png"
         }
       ],
@@ -28739,7 +28737,7 @@
       "userId": "1",
       "organizationId": "13",
       "name": "Иван Петров",
-      "avatar": "blob:http://localhost:3000/d4facd7b-c44a-432d-a149-83e699dfe857",
+      "avatar": "/images/content/photo/1.jpg",
       "avatarLetter": "И",
       "avatarColor": "#95d5e9",
       "mobile": "+7 (***) ***-**-67",
@@ -28762,7 +28760,7 @@
       "userId": "1",
       "organizationId": "13",
       "name": "Иван Петров",
-      "avatar": "blob:http://localhost:3000/d4facd7b-c44a-432d-a149-83e699dfe857",
+      "avatar": "/images/content/photo/1.jpg",
       "avatarLetter": "И",
       "avatarColor": "#95d5e9",
       "mobile": "+7 (***) ***-**-67",
@@ -28785,7 +28783,7 @@
       "userId": "1",
       "organizationId": "13",
       "name": "Иван Петров",
-      "avatar": "blob:http://localhost:3000/d4facd7b-c44a-432d-a149-83e699dfe857",
+      "avatar": "/images/content/photo/1.jpg",
       "avatarLetter": "И",
       "avatarColor": "#95d5e9",
       "mobile": "+7 (***) ***-**-67",
@@ -29024,7 +29022,7 @@
       "email": "ivan@test.ru",
       "password": "123456",
       "phone": "+7 (999) 123-45-67",
-      "avatar": "blob:http://localhost:3000/d4facd7b-c44a-432d-a149-83e699dfe857"
+      "avatar": "/images/content/photo/1.jpg"
     },
     {
       "id": "f13d",
@@ -29032,7 +29030,7 @@
       "email": "a@mail.ru",
       "password": "123456",
       "phone": "+7 (232) 423-42-34",
-      "avatar": "blob:http://localhost:3000/c6de73c7-2751-4dfc-af9e-1ed179b2d53b"
+      "avatar": "/images/content/photo/1.jpg"
     },
     {
       "id": "e2f0",
@@ -29211,7 +29209,7 @@
       "dateFirst": "27.03.26 20:51",
       "dateLast": "27.03.26 20:51",
       "read": 0,
-      "avatar": "blob:http://localhost:3000/d4facd7b-c44a-432d-a149-83e699dfe857"
+      "avatar": "/images/content/photo/1.jpg"
     },
     {
       "id": "9558",
@@ -29223,7 +29221,7 @@
       "dateFirst": "27.03.26 20:55",
       "dateLast": "27.03.26 20:55",
       "read": 0,
-      "avatar": "blob:http://localhost:3000/d4facd7b-c44a-432d-a149-83e699dfe857"
+      "avatar": "/images/content/photo/1.jpg"
     },
     {
       "id": "cb33",
@@ -29235,7 +29233,7 @@
       "dateFirst": "29.03.26 09:26",
       "dateLast": "29.03.26 09:26",
       "read": 0,
-      "avatar": "blob:http://localhost:3000/d4facd7b-c44a-432d-a149-83e699dfe857"
+      "avatar": "/images/content/photo/1.jpg"
     },
     {
       "id": "160d",
@@ -29247,7 +29245,7 @@
       "dateFirst": "29.03.26 09:27",
       "dateLast": "29.03.26 09:27",
       "read": 0,
-      "avatar": "blob:http://localhost:3000/d4facd7b-c44a-432d-a149-83e699dfe857"
+      "avatar": "/images/content/photo/1.jpg"
     }
   ],
   "qna": [
