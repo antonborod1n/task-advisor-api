@@ -178,46 +178,9 @@
           "id": "1775630713607.5283",
           "img": "/images/content/photo/1.jpg",
           "description": "Фото 1"
-        },
-        {
-          "id": "1775630716389.0642",
-          "img": "/images/content/photo/1.jpg",
-          "description": "Фото 2"
-        },
-        {
-          "id": "1775630718387.727",
-          "img": "/images/content/photo/1.jpg",
-          "description": "Фото 3"
-        },
-        {
-          "id": "1775630718387.727",
-          "img": "/images/content/photo/1.jpg",
-          "description": "Фото 4"
-        },
-        {
-          "id": "1775630718387.727",
-          "img": "/images/content/photo/1.jpg",
-          "description": "Фото 5"
-        },
-        {
-          "id": "1775630718387.727",
-          "img": "/images/content/photo/1.jpg",
-          "description": "Фото 6"
         }
       ],
       "beforeAfterPhotos": [
-        {
-          "id": "1775630727801",
-          "before": "/images/content/photo/1.jpg",
-          "after": "/images/content/photo/1.jpg",
-          "description": "Полное/частичное восстановление исторического облика. Улучшение функциональности (например, открытие новых залов для посетителей)."
-        },
-        {
-          "id": "1775630727801",
-          "before": "/images/content/photo/1.jpg",
-          "after": "/images/content/photo/1.jpg",
-          "description": "Полное/частичное восстановление исторического облика. Улучшение функциональности (например, открытие новых залов для посетителей)."
-        },
         {
           "id": "1775630727801",
           "before": "/images/content/photo/1.jpg",
@@ -32814,6 +32777,67 @@
       ],
       "serviceRating": 5,
       "recommend": true
+    },
+    {
+      "id": "02e1",
+      "userId": "8f8e",
+      "organizationId": "121",
+      "name": "Антон Бородин",
+      "avatar": "/images/content/photo/user1.jpg",
+      "avatarLetter": "А",
+      "avatarColor": "#95d5e9",
+      "mobile": "+7 (***) ***-**-43",
+      "text": "Текст",
+      "rating": 5,
+      "priceRating": 5,
+      "qualityRating": 4,
+      "serviceRating": 5,
+      "priceDetails": [
+        {
+          "name": "Прозрачность ценообразования",
+          "value": 5
+        },
+        {
+          "name": "Ощущение ценности услуги",
+          "value": 4
+        }
+      ],
+      "qualityDetails": [
+        {
+          "name": "Надёжность и соответствие",
+          "value": 5
+        },
+        {
+          "name": "Полнота выполненных работ",
+          "value": 3
+        },
+        {
+          "name": "Профессионализм",
+          "value": 5
+        }
+      ],
+      "serviceDetails": [
+        {
+          "name": "Время ожидания и начала работы",
+          "value": 5
+        },
+        {
+          "name": "Вежливость",
+          "value": 4
+        },
+        {
+          "name": "Клиентоориентированность",
+          "value": 5
+        }
+      ],
+      "price": 1233,
+      "serviceDate": "2026-05-09",
+      "publishedAt": "2026-05-10T17:02:49.754Z",
+      "createdAt": "2026-05-10T17:02:49.754Z",
+      "editedAt": null,
+      "likes": 0,
+      "dislikes": 0,
+      "status": true
     }
   ],
   "cities": [
@@ -33319,6 +33343,90 @@
       "dateLast": "26.02.26 13:32",
       "read": 1,
       "avatar": "/images/content/avatar/1.png"
+    },
+    {
+      "id": "42ee",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Замочный мастер",
+      "title": "Замочный мастер",
+      "text": "Здравствуйте!",
+      "dateFirst": "08.05.26 11:12",
+      "dateLast": "08.05.26 11:12",
+      "read": 0,
+      "avatar": "/images/content/photo/1.jpg"
+    },
+    {
+      "id": "f33f",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Замочный мастер",
+      "title": "Замочный мастер",
+      "text": "Здравствуйте!",
+      "dateFirst": "08.05.26 11:15",
+      "dateLast": "08.05.26 11:15",
+      "read": 0,
+      "avatar": "/images/content/photo/1.jpg"
+    },
+    {
+      "id": "3037",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Замочный мастер",
+      "title": "Замочный мастер",
+      "text": "Добрый день! Занимаетесь ли вы вскрытием замков без повреждений? Закрылся входной замок с ключами внутри, нужна срочная помощь — сколько стоит и как быстро мастер сможет приехать?",
+      "dateFirst": "10.05.26 10:30",
+      "dateLast": "10.05.26 10:30",
+      "read": 0,
+      "avatar": "/images/content/photo/1.jpg"
+    },
+    {
+      "id": "3c86",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Замочный мастер",
+      "title": "Замочный мастер",
+      "text": "3223r 23r32 r32 r23r23",
+      "dateFirst": "10.05.26 11:22",
+      "dateLast": "10.05.26 11:22",
+      "read": 0,
+      "avatar": "/images/content/photo/1.jpg"
+    },
+    {
+      "id": "009a",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Замочный мастер",
+      "title": "Замочный мастер",
+      "text": "efw fewf ew few",
+      "dateFirst": "10.05.26 11:22",
+      "dateLast": "10.05.26 11:22",
+      "read": 0,
+      "avatar": "/images/content/photo/1.jpg"
+    },
+    {
+      "id": "4407",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Замочный мастер",
+      "title": "Замочный мастер",
+      "text": "ewrerew ewr ewr rewr",
+      "dateFirst": "10.05.26 11:26",
+      "dateLast": "10.05.26 11:26",
+      "read": 0,
+      "avatar": "/images/content/photo/1.jpg"
+    },
+    {
+      "id": "0d4f",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Замочный мастер",
+      "title": "Замочный мастер",
+      "text": "qdfeewf wefwefw",
+      "dateFirst": "10.05.26 18:07",
+      "dateLast": "10.05.26 18:07",
+      "read": 0,
+      "avatar": "/images/content/photo/1.jpg"
     }
   ],
   "qna": [
@@ -33488,6 +33596,91 @@
       "hasAnswer": true,
       "read": 0,
       "createdAt": "2026-02-26T10:29:54.202Z"
+    },
+    {
+      "id": "8931",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Замочный мастер",
+      "organizationUrl": "zamochnyy-master",
+      "title": "Замочный мастер",
+      "text": "ewfwefew ew fwe fwe few fweewfw ew",
+      "question": "ewfwefew ew fwe fwe few fweewfw ew",
+      "avatar": "/images/content/company/2.png",
+      "allowPublish": true,
+      "dateQuestion": "10.05.26 18:54",
+      "dateAnswer": null,
+      "hasAnswer": false,
+      "read": 0,
+      "createdAt": "2026-05-10T15:54:07.783Z"
+    },
+    {
+      "id": "8515",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Замочный мастер",
+      "organizationUrl": "zamochnyy-master",
+      "title": "Замочный мастер",
+      "text": "ewrfew wer ewr wer wer",
+      "question": "ewrfew wer ewr wer wer",
+      "avatar": "/images/content/company/2.png",
+      "allowPublish": true,
+      "dateQuestion": "10.05.26 19:03",
+      "dateAnswer": null,
+      "hasAnswer": false,
+      "read": 0,
+      "createdAt": "2026-05-10T16:03:13.206Z"
+    },
+    {
+      "id": "f276",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Замочный мастер",
+      "organizationUrl": "zamochnyy-master",
+      "title": "Замочный мастер",
+      "text": "wger ger gre gerg er",
+      "question": "wger ger gre gerg er",
+      "avatar": "/images/content/company/2.png",
+      "allowPublish": true,
+      "dateQuestion": "10.05.26 19:05",
+      "dateAnswer": null,
+      "hasAnswer": false,
+      "read": 0,
+      "createdAt": "2026-05-10T16:05:10.758Z"
+    },
+    {
+      "id": "5eef",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Замочный мастер",
+      "organizationUrl": "zamochnyy-master",
+      "title": "Замочный мастер",
+      "text": "egrg er gerg reger ger",
+      "question": "egrg er gerg reger ger",
+      "avatar": "/images/content/company/2.png",
+      "allowPublish": false,
+      "dateQuestion": "10.05.26 19:18",
+      "dateAnswer": null,
+      "hasAnswer": false,
+      "read": 0,
+      "createdAt": "2026-05-10T16:18:02.802Z"
+    },
+    {
+      "id": "3a3f",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Замочный мастер",
+      "organizationUrl": "zamochnyy-master",
+      "title": "Замочный мастер",
+      "text": "34r4 3r 443 sd ds sdf sdf sdf",
+      "question": "34r4 3r 443 sd ds sdf sdf sdf",
+      "avatar": "/images/content/company/2.png",
+      "allowPublish": false,
+      "dateQuestion": "11.05.26 09:57",
+      "dateAnswer": null,
+      "hasAnswer": false,
+      "read": 0,
+      "createdAt": "2026-05-11T06:57:43.591Z"
     }
   ],
   "orgMessages": [
@@ -35026,6 +35219,16 @@
       "id": "2e0b",
       "userId": "1",
       "organizationId": "1"
+    },
+    {
+      "id": "fc1f",
+      "userId": "1",
+      "organizationId": "1"
+    },
+    {
+      "id": "94be",
+      "userId": "1",
+      "organizationId": "1"
     }
   ],
   "reports": [
@@ -35078,31 +35281,37 @@
       "userId": null,
       "text": "rergreg ergerg erg",
       "createdAt": "2026-05-07T06:27:31.076Z"
+    },
+    {
+      "id": "27b5",
+      "reviewId": "9473",
+      "organizationId": "1",
+      "userId": null,
+      "text": "уцауца уц ауца ц",
+      "createdAt": "2026-05-08T08:16:49.225Z"
     }
   ],
   "reviewReplies": [
     {
-      "id": "mouf4mk85c6e",
+      "id": "mozg5b5winx5",
       "reviewId": "9474",
       "organizationId": "1",
       "userId": "1",
-      "replyAs": "personal",
-      "authorName": "Иван Петров",
-      "avatarLetter": "И",
-      "avatar": "/images/content/photo/1.jpg",
-      "authorAvatar": "/images/content/photo/1.jpg",
-      "author-avatar": "/images/content/photo/1.jpg",
-      "organizationLogo": null,
-      "isCompanyOwner": false,
+      "replyAs": "company",
+      "authorName": "Замочный мастер",
+      "avatarLetter": "З",
+      "avatar": null,
+      "organizationLogo": "/images/content/company/2.png",
+      "isCompanyOwner": true,
       "parentReplyId": null,
       "replyToName": "Антон Б.",
-      "text": "Здравствуйте!",
-      "publishedAt": "06.05.2026 21:56",
-      "editedAt": null,
-      "createdAt": "2026-05-06T18:56:21.560Z"
+      "text": "Спасибо большое за ваш отзыв! Нам очень приятно слышать, что мастер справился на отлично, а результат полностью оправдал ожидания. Мы всегда стараемся быть прозрачными в ценах и качественными в работе",
+      "publishedAt": "10.05.2026 10:23",
+      "editedAt": "2026-05-10T16:14:31.233Z",
+      "createdAt": "2026-05-10T07:23:43.940Z"
     },
     {
-      "id": "mouf5j0fm0u1",
+      "id": "mozg6s2as37g",
       "reviewId": "9474",
       "organizationId": "1",
       "userId": "8f8e",
@@ -35114,48 +35323,12 @@
       "author-avatar": "/images/content/photo/user1.jpg",
       "organizationLogo": null,
       "isCompanyOwner": false,
-      "parentReplyId": "mouf4mk85c6e",
-      "replyToName": "Иван Петров",
-      "text": "Приветствую!",
-      "publishedAt": "06.05.2026 21:57",
+      "parentReplyId": "mozg5b5winx5",
+      "replyToName": "Замочный мастер",
+      "text": "Спасибо за оперативный отклик! Да, всё прошло на высоте, буду иметь вас в виду и рекомендовать друзьям. Удачи в работе!",
+      "publishedAt": "10.05.2026 10:24",
       "editedAt": null,
-      "createdAt": "2026-05-06T18:57:03.615Z"
-    },
-    {
-      "id": "mouf87gpv479",
-      "reviewId": "9474",
-      "organizationId": "1",
-      "userId": "1",
-      "replyAs": "company",
-      "authorName": "Сантехник-эксперт",
-      "avatarLetter": "С",
-      "avatar": null,
-      "organizationLogo": "/images/content/company/1.png",
-      "isCompanyOwner": true,
-      "parentReplyId": null,
-      "replyToName": "Антон Б.",
-      "text": "Добрый день! Вам нужна помощь",
-      "publishedAt": "06.05.2026 21:59",
-      "editedAt": "2026-05-06T19:00:40.877Z",
-      "createdAt": "2026-05-06T18:59:08.617Z"
-    },
-    {
-      "id": "mov420hoarg4",
-      "reviewId": "9474",
-      "organizationId": "1",
-      "userId": "1",
-      "replyAs": "company",
-      "authorName": "Ремонт техники",
-      "avatarLetter": "Р",
-      "avatar": null,
-      "organizationLogo": "/images/content/company/3.png",
-      "isCompanyOwner": true,
-      "parentReplyId": "mouf5j0fm0u1",
-      "replyToName": "Антон Бородин",
-      "text": "Здравствуйте!",
-      "publishedAt": "07.05.2026 09:34",
-      "editedAt": null,
-      "createdAt": "2026-05-07T06:34:10.045Z"
+      "createdAt": "2026-05-10T07:24:52.498Z"
     }
   ]
 }
