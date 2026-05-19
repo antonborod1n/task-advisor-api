@@ -31883,17 +31883,16 @@
       "userId": "1",
       "name": "Иван П.",
       "avatar": "/images/content/photo/1.jpg",
-      "avatarLetter": "И",
-      "text": "Обращался в Замочный мастер по рекомендации. Приехали вовремя, заранее согласовали стоимость и без навязывания допработ всё сделали за один визит. После работ оставили чисто, результатом доволен.",
+      "avatarLetter": "ИП",
+      "text": "Отличный сервис. Мастер приехал вовремя и быстро решил задачу.",
       "rating": 5,
-      "price": 9090,
+      "price": "9 090",
       "breadcrumbs": [
-        "Ремонт сантехники"
+        "Замки и двери"
       ],
       "city": "Санкт-Петербург",
       "serviceDate": "2026-05-05",
       "publishedAt": "11.01.2025 09:00",
-      "editedAt": "2026-05-06T08:00:13.887Z",
       "likes": 156,
       "dislikes": 5,
       "createdAt": "2025-01-11T09:00:00Z",
@@ -31902,6 +31901,9 @@
       "mobile": "+7 (***) ***-**-67",
       "showPhone": true,
       "qualityRating": 5,
+      "priceRating": 5,
+      "serviceRating": 5,
+      "recommend": true,
       "serviceDetails": [
         {
           "value": 5,
@@ -31912,56 +31914,51 @@
           "name": "Вежливость"
         },
         {
-          "value": 4.5,
-          "name": "Клиентоориентированность"
+          "value": 5,
+          "name": "Компетентность"
         }
       ],
-      "priceRating": 5,
       "priceDetails": [
         {
           "value": 5,
-          "name": "Прозрачность ценообразования"
+          "name": "Цена"
         },
         {
-          "value": 4,
-          "name": "Общее ощущение цены"
+          "value": 5,
+          "name": "Смета"
         }
       ],
       "qualityDetails": [
         {
-          "value": 4,
-          "name": "Надёжность и безопасность"
+          "value": 5,
+          "name": "Аккуратность"
         },
         {
           "value": 5,
-          "name": "Полнота оказания услуги"
+          "name": "Качество"
         },
         {
-          "value": 4,
-          "name": "Компетентность"
+          "value": 5,
+          "name": "Чистота"
         }
-      ],
-      "serviceRating": 5,
-      "recommend": true,
-      "editReason": "Изменились обстоятельства"
+      ]
     },
     {
       "id": "4",
       "userId": "1",
-      "name": "Иван П.",
+      "name": "Мария С.",
       "avatar": "/images/content/photo/1.jpg",
-      "avatarLetter": "И",
-      "text": "Заказывал услугу в Замочный мастер. Мастер был вежливый, объяснил варианты решения и сразу обозначил, что входит в цену. По качеству вопросов нет, всё работает как надо. Заказывал услугу в Замочный мастер. Мастер был вежливый, объяснил варианты решения и сразу обозначил, что входит в цену. По качеству вопросов нет, всё работает как надо.",
+      "avatarLetter": "МС",
+      "text": "Все сделали аккуратно, дверь открыли без повреждений.",
       "rating": 5,
       "price": "3 500",
       "breadcrumbs": [
-        "Клининг",
-        "Генеральная уборка"
+        "Замки",
+        "Вскрытие замков"
       ],
       "city": "Москва",
-      "serviceDate": "05 января 2025 10:00",
+      "serviceDate": "2025-05-05",
       "publishedAt": "06.01.2025 15:00",
-      "editedAt": null,
       "likes": 89,
       "dislikes": 1,
       "createdAt": "2025-01-06T15:00:00Z",
@@ -31970,64 +31967,63 @@
       "mobile": "+7 (***) ***-**-67",
       "showPhone": true,
       "qualityRating": 5,
+      "priceRating": 5,
+      "serviceRating": 5,
+      "recommend": true,
       "serviceDetails": [
         {
           "value": 5,
           "name": "Время"
         },
         {
-          "value": 4.5,
+          "value": 5,
           "name": "Вежливость"
-        },
-        {
-          "value": 5,
-          "name": "Клиентоориентированность"
-        }
-      ],
-      "priceRating": 5,
-      "priceDetails": [
-        {
-          "value": 5,
-          "name": "Прозрачность ценообразования"
-        },
-        {
-          "value": 5,
-          "name": "Общее ощущение цены"
-        }
-      ],
-      "qualityDetails": [
-        {
-          "value": 5,
-          "name": "Надёжность и безопасность"
-        },
-        {
-          "value": 5,
-          "name": "Полнота оказания услуги"
         },
         {
           "value": 5,
           "name": "Компетентность"
         }
       ],
-      "serviceRating": 5,
-      "recommend": true
+      "priceDetails": [
+        {
+          "value": 5,
+          "name": "Цена"
+        },
+        {
+          "value": 5,
+          "name": "Смета"
+        }
+      ],
+      "qualityDetails": [
+        {
+          "value": 5,
+          "name": "Аккуратность"
+        },
+        {
+          "value": 5,
+          "name": "Качество"
+        },
+        {
+          "value": 5,
+          "name": "Чистота"
+        }
+      ]
     },
     {
       "id": "9471",
       "userId": "1",
-      "name": "Иван П.",
+      "name": "Алексей К.",
       "avatar": "/images/content/photo/1.jpg",
-      "avatarLetter": "И",
-      "text": "Обращался в Замочный мастер по рекомендации. Приехали вовремя, заранее согласовали стоимость и без навязывания допработ всё сделали за один визит. После работ оставили чисто, результатом доволен.",
+      "avatarLetter": "АК",
+      "text": "Заменили замок за один визит. Цена совпала с оценкой.",
       "rating": 4.7,
       "price": "9 900",
       "breadcrumbs": [
-        "Ремонт сантехники"
+        "Ремонт замков"
       ],
-      "city": "Балашиха, Реутов, Троицк",
-      "serviceDate": "10 января 2025 12:00",
+      "city": "Балашиха",
+      "serviceDate": "2025-05-10",
       "publishedAt": "01.01.2026 12:00",
-      "editedAt": null,
       "likes": 156,
       "dislikes": 5,
       "createdAt": "2026-01-01T09:00:00.000Z",
@@ -32036,6 +32032,9 @@
       "mobile": "+7 (***) ***-**-67",
       "showPhone": true,
       "qualityRating": 4,
+      "priceRating": 5,
+      "serviceRating": 5,
+      "recommend": true,
       "serviceDetails": [
         {
           "value": 5,
@@ -32046,55 +32045,50 @@
           "name": "Вежливость"
         },
         {
-          "value": 4.5,
-          "name": "Клиентоориентированность"
+          "value": 5,
+          "name": "Компетентность"
         }
       ],
-      "priceRating": 5,
       "priceDetails": [
         {
           "value": 5,
-          "name": "Прозрачность ценообразования"
+          "name": "Цена"
         },
         {
-          "value": 4,
-          "name": "Общее ощущение цены"
+          "value": 5,
+          "name": "Смета"
         }
       ],
       "qualityDetails": [
         {
-          "value": 4,
-          "name": "Надёжность и безопасность"
+          "value": 5,
+          "name": "Аккуратность"
         },
         {
           "value": 5,
-          "name": "Полнота оказания услуги"
+          "name": "Качество"
         },
         {
-          "value": 4,
-          "name": "Компетентность"
+          "value": 5,
+          "name": "Чистота"
         }
-      ],
-      "serviceRating": 5,
-      "recommend": true
+      ]
     },
     {
       "id": "9472",
       "userId": "1",
-      "name": "Иван П.",
+      "name": "Ольга Н.",
       "avatar": "/images/content/photo/1.jpg",
-      "avatarLetter": "И",
-      "text": "Редактировать",
-      "rating": 1,
-      "price": "3555",
+      "avatarLetter": "ОН",
+      "text": "Работа выполнена аккуратно. Рекомендую мастера.",
+      "rating": 5,
+      "price": "3 555",
       "breadcrumbs": [
-        "Клининг",
-        "Генеральная уборка"
+        "Установка замков"
       ],
-      "city": "Балашиха, Реутов, Троицк",
-      "serviceDate": "2026-05-06",
+      "city": "Москва",
+      "serviceDate": "2025-05-12",
       "publishedAt": "02.01.2026 12:00",
-      "editedAt": "2026-05-07T06:52:57.726Z",
       "likes": 89,
       "dislikes": 1,
       "createdAt": "2026-01-02T09:00:00.000Z",
@@ -32102,66 +32096,65 @@
       "organizationId": "1",
       "mobile": "+7 (***) ***-**-67",
       "showPhone": true,
-      "qualityRating": 1,
+      "qualityRating": 5,
+      "priceRating": 5,
+      "serviceRating": 5,
+      "recommend": true,
       "serviceDetails": [
         {
-          "name": "Время ожидания и начала работы",
-          "value": 5
+          "value": 5,
+          "name": "Время"
         },
         {
-          "name": "Вежливость",
-          "value": 4.5
+          "value": 5,
+          "name": "Вежливость"
         },
         {
-          "name": "Клиентоориентированность",
-          "value": 5
+          "value": 5,
+          "name": "Компетентность"
         }
       ],
-      "priceRating": 1,
       "priceDetails": [
         {
-          "name": "Прозрачность ценообразования",
-          "value": 3
+          "value": 5,
+          "name": "Цена"
         },
         {
-          "name": "Ощущение ценности услуги",
-          "value": 5
+          "value": 5,
+          "name": "Смета"
         }
       ],
       "qualityDetails": [
         {
-          "name": "Надёжность и соответствие",
-          "value": 5
+          "value": 5,
+          "name": "Аккуратность"
         },
         {
-          "name": "Полнота выполненных работ",
-          "value": 5
+          "value": 5,
+          "name": "Качество"
         },
         {
-          "name": "Профессионализм",
-          "value": 5
+          "value": 5,
+          "name": "Чистота"
         }
-      ],
-      "serviceRating": 1,
-      "recommend": true,
-      "editReason": ""
+      ]
     },
     {
       "id": "9473",
       "userId": "8f8e",
       "name": "Антон Б.",
       "avatar": null,
-      "avatarLetter": "А",
-      "text": "Обращался в Замочный мастер по рекомендации. Приехали вовремя, заранее согласовали стоимость и без навязывания допработ всё сделали за один визит. После работ оставили чисто, результатом доволен.",
+      "avatarLetter": "АБ",
+      "avatarColor": "#95e9a5",
+      "text": "Понравилась консультация и качество установки.",
       "rating": 4.7,
       "price": "9 900",
       "breadcrumbs": [
-        "Ремонт сантехники"
+        "Замки и двери"
       ],
-      "city": "Балашиха, Реутов, Троицк",
-      "serviceDate": "10 января 2025 12:00",
+      "city": "Балашиха",
+      "serviceDate": "2025-05-15",
       "publishedAt": "03.01.2026 12:00",
-      "editedAt": null,
       "likes": 156,
       "dislikes": 5,
       "createdAt": "2026-01-03T09:00:00.000Z",
@@ -32170,141 +32163,9 @@
       "mobile": "+7 (***) ***-**-43",
       "showPhone": true,
       "qualityRating": 4,
-      "serviceDetails": [
-        {
-          "value": 5,
-          "name": "Время"
-        },
-        {
-          "value": 5,
-          "name": "Вежливость"
-        },
-        {
-          "value": 4.5,
-          "name": "Клиентоориентированность"
-        }
-      ],
       "priceRating": 5,
-      "priceDetails": [
-        {
-          "value": 5,
-          "name": "Прозрачность ценообразования"
-        },
-        {
-          "value": 4,
-          "name": "Общее ощущение цены"
-        }
-      ],
-      "qualityDetails": [
-        {
-          "value": 4,
-          "name": "Надёжность и безопасность"
-        },
-        {
-          "value": 5,
-          "name": "Полнота оказания услуги"
-        },
-        {
-          "value": 4,
-          "name": "Компетентность"
-        }
-      ],
       "serviceRating": 5,
       "recommend": true,
-      "avatarColor": "#95e9a5"
-    },
-    {
-      "id": "9474",
-      "userId": "8f8e",
-      "name": "Антон Б.",
-      "avatar": null,
-      "avatarLetter": "А",
-      "text": "Заказывал услугу в Замочный мастер. Мастер был вежливый, объяснил варианты решения и сразу обозначил, что входит в цену. По качеству вопросов нет, всё работает как надо.Заказывал услугу в Замочный мастер. Мастер был вежливый, объяснил варианты решения и сразу обозначил, что входит в цену. По качеству вопросов нет, всё работает как надо.",
-      "rating": 5,
-      "price": "3 500",
-      "breadcrumbs": [
-        "Клининг",
-        "Генеральная уборка"
-      ],
-      "city": "Балашиха, Реутов, Троицк",
-      "serviceDate": "05 января 2025 10:00",
-      "publishedAt": "04.01.2026 12:00",
-      "editedAt": null,
-      "likes": 89,
-      "dislikes": 1,
-      "createdAt": "2026-01-04T09:00:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "mobile": "+7 (***) ***-**-43",
-      "showPhone": true,
-      "qualityRating": 5,
-      "serviceDetails": [
-        {
-          "value": 5,
-          "name": "Время"
-        },
-        {
-          "value": 4.5,
-          "name": "Вежливость"
-        },
-        {
-          "value": 5,
-          "name": "Клиентоориентированность"
-        }
-      ],
-      "priceRating": 5,
-      "priceDetails": [
-        {
-          "value": 5,
-          "name": "Прозрачность ценообразования"
-        },
-        {
-          "value": 5,
-          "name": "Общее ощущение цены"
-        }
-      ],
-      "qualityDetails": [
-        {
-          "value": 5,
-          "name": "Надёжность и безопасность"
-        },
-        {
-          "value": 5,
-          "name": "Полнота оказания услуги"
-        },
-        {
-          "value": 5,
-          "name": "Компетентность"
-        }
-      ],
-      "serviceRating": 5,
-      "recommend": true,
-      "avatarColor": "#95e9a5"
-    },
-    {
-      "id": "zm-o-8f8e",
-      "userId": "8f8e",
-      "name": "Антон Б.",
-      "avatar": null,
-      "avatarLetter": "А",
-      "text": "Быстро приехали, заменили личинку. Цена адекватная, без навязанных услуг.",
-      "rating": 4.5,
-      "price": "9 900",
-      "breadcrumbs": [
-        "Ремонт сантехники"
-      ],
-      "city": "Санкт-Петербург",
-      "serviceDate": "10 января 2025 12:00",
-      "publishedAt": "20.01.2025 14:00",
-      "editedAt": null,
-      "likes": 5,
-      "dislikes": 0,
-      "createdAt": "2025-02-05T08:00:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "mobile": "+7 (***) ***-**-43",
-      "showPhone": true,
-      "qualityRating": 4,
       "serviceDetails": [
         {
           "value": 5,
@@ -32315,769 +32176,34 @@
           "name": "Вежливость"
         },
         {
-          "value": 4.5,
-          "name": "Клиентоориентированность"
-        }
-      ],
-      "priceRating": 5,
-      "priceDetails": [
-        {
-          "value": 5,
-          "name": "Прозрачность ценообразования"
-        },
-        {
-          "value": 4,
-          "name": "Общее ощущение цены"
-        }
-      ],
-      "qualityDetails": [
-        {
-          "value": 4,
-          "name": "Надёжность и безопасность"
-        },
-        {
-          "value": 5,
-          "name": "Полнота оказания услуги"
-        },
-        {
-          "value": 4,
-          "name": "Компетентность"
-        }
-      ],
-      "serviceRating": 5,
-      "recommend": true,
-      "avatarColor": "#95e9a5"
-    },
-    {
-      "id": "zm-o-43e3",
-      "userId": "8f8e",
-      "name": "Антон Б.",
-      "avatar": null,
-      "avatarLetter": "А",
-      "text": "Для офиса ставили накладной замок — мастер пунктуальный, документы показал.",
-      "rating": 4.6,
-      "price": "9 900",
-      "breadcrumbs": [
-        "Ремонт сантехники"
-      ],
-      "city": "Санкт-Петербург",
-      "serviceDate": "10 января 2025 12:00",
-      "publishedAt": "20.02.2025 14:00",
-      "editedAt": null,
-      "likes": 7,
-      "dislikes": 1,
-      "createdAt": "2025-02-06T08:00:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "mobile": "+7 (***) ***-**-43",
-      "showPhone": true,
-      "qualityRating": 4,
-      "serviceDetails": [
-        {
-          "value": 5,
-          "name": "Время"
-        },
-        {
-          "value": 5,
-          "name": "Вежливость"
-        },
-        {
-          "value": 4.5,
-          "name": "Клиентоориентированность"
-        }
-      ],
-      "priceRating": 5,
-      "priceDetails": [
-        {
-          "value": 5,
-          "name": "Прозрачность ценообразования"
-        },
-        {
-          "value": 4,
-          "name": "Общее ощущение цены"
-        }
-      ],
-      "qualityDetails": [
-        {
-          "value": 4,
-          "name": "Надёжность и безопасность"
-        },
-        {
-          "value": 5,
-          "name": "Полнота оказания услуги"
-        },
-        {
-          "value": 4,
-          "name": "Компетентность"
-        }
-      ],
-      "serviceRating": 5,
-      "recommend": true,
-      "avatarColor": "#95e9a5"
-    },
-    {
-      "id": "zm-o-e2f0",
-      "userId": "43e3",
-      "name": "Марина К.",
-      "avatar": null,
-      "avatarLetter": "М",
-      "text": "Дома заела дверь — подправили и смазали, теперь закрывается мягко.",
-      "rating": 4.7,
-      "price": "9 900",
-      "breadcrumbs": [
-        "Ремонт сантехники"
-      ],
-      "city": "Санкт-Петербург",
-      "serviceDate": "10 января 2025 12:00",
-      "publishedAt": "20.03.2025 14:00",
-      "editedAt": null,
-      "likes": 9,
-      "dislikes": 0,
-      "createdAt": "2025-02-07T08:00:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "mobile": "+7 (***) ***-**-74",
-      "showPhone": true,
-      "qualityRating": 4,
-      "serviceDetails": [
-        {
-          "value": 5,
-          "name": "Время"
-        },
-        {
-          "value": 5,
-          "name": "Вежливость"
-        },
-        {
-          "value": 4.5,
-          "name": "Клиентоориентированность"
-        }
-      ],
-      "priceRating": 5,
-      "priceDetails": [
-        {
-          "value": 5,
-          "name": "Прозрачность ценообразования"
-        },
-        {
-          "value": 4,
-          "name": "Общее ощущение цены"
-        }
-      ],
-      "qualityDetails": [
-        {
-          "value": 4,
-          "name": "Надёжность и безопасность"
-        },
-        {
-          "value": 5,
-          "name": "Полнота оказания услуги"
-        },
-        {
-          "value": 4,
-          "name": "Компетентность"
-        }
-      ],
-      "serviceRating": 5,
-      "recommend": true,
-      "avatarColor": "#e9dc95"
-    },
-    {
-      "id": "zm-o-f13d",
-      "userId": "43e3",
-      "name": "Марина К.",
-      "avatar": null,
-      "avatarLetter": "М",
-      "text": "Консультация по телефону честная, приехали во временное окно как обещали.",
-      "rating": 4.8,
-      "price": "9 900",
-      "breadcrumbs": [
-        "Ремонт сантехники"
-      ],
-      "city": "Санкт-Петербург",
-      "serviceDate": "10 января 2025 12:00",
-      "publishedAt": "20.04.2025 14:00",
-      "editedAt": null,
-      "likes": 11,
-      "dislikes": 1,
-      "createdAt": "2025-02-08T08:00:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "mobile": "+7 (***) ***-**-74",
-      "showPhone": true,
-      "qualityRating": 4,
-      "serviceDetails": [
-        {
-          "value": 5,
-          "name": "Время"
-        },
-        {
-          "value": 5,
-          "name": "Вежливость"
-        },
-        {
-          "value": 4.5,
-          "name": "Клиентоориентированность"
-        }
-      ],
-      "priceRating": 5,
-      "priceDetails": [
-        {
-          "value": 5,
-          "name": "Прозрачность ценообразования"
-        },
-        {
-          "value": 4,
-          "name": "Общее ощущение цены"
-        }
-      ],
-      "qualityDetails": [
-        {
-          "value": 4,
-          "name": "Надёжность и безопасность"
-        },
-        {
-          "value": 5,
-          "name": "Полнота оказания услуги"
-        },
-        {
-          "value": 4,
-          "name": "Компетентность"
-        }
-      ],
-      "serviceRating": 5,
-      "recommend": true,
-      "avatarColor": "#e9dc95"
-    },
-    {
-      "id": "zm-u1-1",
-      "userId": "43e3",
-      "name": "Марина К.",
-      "avatar": null,
-      "avatarLetter": "М",
-      "text": "Заказывал вскрытие — приехали за 25 минут, без повреждений двери, оплата как договаривались.",
-      "rating": 4.7,
-      "price": "9 900",
-      "breadcrumbs": [
-        "Ремонт сантехники"
-      ],
-      "city": "Санкт-Петербург",
-      "serviceDate": "10 января 2025 12:00",
-      "publishedAt": "15.01.2025 10:00",
-      "editedAt": null,
-      "likes": 10,
-      "dislikes": 0,
-      "createdAt": "2025-01-15T07:00:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "mobile": "+7 (***) ***-**-74",
-      "showPhone": true,
-      "qualityRating": 4,
-      "serviceDetails": [
-        {
-          "value": 5,
-          "name": "Время"
-        },
-        {
-          "value": 5,
-          "name": "Вежливость"
-        },
-        {
-          "value": 4.5,
-          "name": "Клиентоориентированность"
-        }
-      ],
-      "priceRating": 5,
-      "priceDetails": [
-        {
-          "value": 5,
-          "name": "Прозрачность ценообразования"
-        },
-        {
-          "value": 4,
-          "name": "Общее ощущение цены"
-        }
-      ],
-      "qualityDetails": [
-        {
-          "value": 4,
-          "name": "Надёжность и безопасность"
-        },
-        {
-          "value": 5,
-          "name": "Полнота оказания услуги"
-        },
-        {
-          "value": 4,
-          "name": "Компетентность"
-        }
-      ],
-      "serviceRating": 5,
-      "recommend": true,
-      "avatarColor": "#e9dc95"
-    },
-    {
-      "id": "zm-u1-2",
-      "userId": "e2f0",
-      "name": "Беляев Д.",
-      "avatar": null,
-      "avatarLetter": "Б",
-      "text": "Дублирующий ключ сделали за час, работа аккуратная, рекомендую мастера.",
-      "rating": 5,
-      "price": "3 500",
-      "breadcrumbs": [
-        "Клининг",
-        "Генеральная уборка"
-      ],
-      "city": "Москва",
-      "serviceDate": "05 января 2025 10:00",
-      "publishedAt": "15.02.2025 11:01",
-      "editedAt": null,
-      "likes": 11,
-      "dislikes": 1,
-      "createdAt": "2025-01-16T08:00:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "mobile": "+7 (***) ***-**-14",
-      "showPhone": true,
-      "qualityRating": 5,
-      "serviceDetails": [
-        {
-          "value": 5,
-          "name": "Время"
-        },
-        {
-          "value": 4.5,
-          "name": "Вежливость"
-        },
-        {
-          "value": 5,
-          "name": "Клиентоориентированность"
-        }
-      ],
-      "priceRating": 5,
-      "priceDetails": [
-        {
-          "value": 5,
-          "name": "Прозрачность ценообразования"
-        },
-        {
-          "value": 5,
-          "name": "Общее ощущение цены"
-        }
-      ],
-      "qualityDetails": [
-        {
-          "value": 5,
-          "name": "Надёжность и безопасность"
-        },
-        {
-          "value": 5,
-          "name": "Полнота оказания услуги"
-        },
-        {
           "value": 5,
           "name": "Компетентность"
         }
       ],
-      "serviceRating": 5,
-      "recommend": true,
-      "avatarColor": "#a595e9"
-    },
-    {
-      "id": "zm-u1-3",
-      "userId": "e2f0",
-      "name": "Беляев Д.",
-      "avatar": null,
-      "avatarLetter": "Б",
-      "text": "Установили цилиндр, всё разъяснили, гарантийный талон выдали.",
-      "rating": 4.7,
-      "price": "9 900",
-      "breadcrumbs": [
-        "Ремонт сантехники"
-      ],
-      "city": "Балашиха, Реутов, Троицк",
-      "serviceDate": "10 января 2025 12:00",
-      "publishedAt": "15.03.2025 12:02",
-      "editedAt": null,
-      "likes": 12,
-      "dislikes": 2,
-      "createdAt": "2025-01-17T09:00:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "mobile": "+7 (***) ***-**-14",
-      "showPhone": true,
-      "qualityRating": 4,
-      "serviceDetails": [
-        {
-          "value": 5,
-          "name": "Время"
-        },
-        {
-          "value": 5,
-          "name": "Вежливость"
-        },
-        {
-          "value": 4.5,
-          "name": "Клиентоориентированность"
-        }
-      ],
-      "priceRating": 5,
       "priceDetails": [
         {
           "value": 5,
-          "name": "Прозрачность ценообразования"
-        },
-        {
-          "value": 4,
-          "name": "Общее ощущение цены"
-        }
-      ],
-      "qualityDetails": [
-        {
-          "value": 4,
-          "name": "Надёжность и безопасность"
+          "name": "Цена"
         },
         {
           "value": 5,
-          "name": "Полнота оказания услуги"
-        },
-        {
-          "value": 4,
-          "name": "Компетентность"
-        }
-      ],
-      "serviceRating": 5,
-      "recommend": true,
-      "avatarColor": "#a595e9"
-    },
-    {
-      "id": "zm-u1-4",
-      "userId": "e2f0",
-      "name": "Беляев Д.",
-      "avatar": null,
-      "avatarLetter": "Б",
-      "text": "Ночной выезд — без наценок за срочность, по городу сориентировались быстро.",
-      "rating": 5,
-      "price": "3 500",
-      "breadcrumbs": [
-        "Клининг",
-        "Генеральная уборка"
-      ],
-      "city": "Балашиха, Реутов, Троицк",
-      "serviceDate": "05 января 2025 10:00",
-      "publishedAt": "15.04.2025 13:03",
-      "editedAt": null,
-      "likes": 13,
-      "dislikes": 0,
-      "createdAt": "2025-01-18T10:00:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "mobile": "+7 (***) ***-**-14",
-      "showPhone": true,
-      "qualityRating": 5,
-      "serviceDetails": [
-        {
-          "value": 5,
-          "name": "Время"
-        },
-        {
-          "value": 4.5,
-          "name": "Вежливость"
-        },
-        {
-          "value": 5,
-          "name": "Клиентоориентированность"
-        }
-      ],
-      "priceRating": 5,
-      "priceDetails": [
-        {
-          "value": 5,
-          "name": "Прозрачность ценообразования"
-        },
-        {
-          "value": 5,
-          "name": "Общее ощущение цены"
+          "name": "Смета"
         }
       ],
       "qualityDetails": [
         {
           "value": 5,
-          "name": "Надёжность и безопасность"
+          "name": "Аккуратность"
         },
         {
           "value": 5,
-          "name": "Полнота оказания услуги"
+          "name": "Качество"
         },
         {
           "value": 5,
-          "name": "Компетентность"
+          "name": "Чистота"
         }
-      ],
-      "serviceRating": 5,
-      "recommend": true,
-      "avatarColor": "#a595e9"
-    },
-    {
-      "id": "zm-u1-5",
-      "userId": "f13d",
-      "name": "Фёдоров М.",
-      "avatar": "/images/content/photo/1.jpg",
-      "avatarLetter": "Ф",
-      "text": "Починили замок после взлома, подобрали по бюджету, замок плавно ходит.",
-      "rating": 4.7,
-      "price": "9 900",
-      "breadcrumbs": [
-        "Ремонт сантехники"
-      ],
-      "city": "Балашиха, Реутов, Троицк",
-      "serviceDate": "10 января 2025 12:00",
-      "publishedAt": "15.05.2025 14:04",
-      "editedAt": null,
-      "likes": 14,
-      "dislikes": 1,
-      "createdAt": "2025-01-19T11:00:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "mobile": "+7 (***) ***-**-34",
-      "showPhone": true,
-      "qualityRating": 4,
-      "serviceDetails": [
-        {
-          "value": 5,
-          "name": "Время"
-        },
-        {
-          "value": 5,
-          "name": "Вежливость"
-        },
-        {
-          "value": 4.5,
-          "name": "Клиентоориентированность"
-        }
-      ],
-      "priceRating": 5,
-      "priceDetails": [
-        {
-          "value": 5,
-          "name": "Прозрачность ценообразования"
-        },
-        {
-          "value": 4,
-          "name": "Общее ощущение цены"
-        }
-      ],
-      "qualityDetails": [
-        {
-          "value": 4,
-          "name": "Надёжность и безопасность"
-        },
-        {
-          "value": 5,
-          "name": "Полнота оказания услуги"
-        },
-        {
-          "value": 4,
-          "name": "Компетентность"
-        }
-      ],
-      "serviceRating": 5,
-      "recommend": true
-    },
-    {
-      "id": "zm-u1-6",
-      "userId": "f13d",
-      "name": "Фёдоров М.",
-      "avatar": "/images/content/photo/1.jpg",
-      "avatarLetter": "Ф",
-      "text": "Сложный сейф — открыли аккуратно, документы не трогали без спроса.",
-      "rating": 5,
-      "price": "3 500",
-      "breadcrumbs": [
-        "Клининг",
-        "Генеральная уборка"
-      ],
-      "city": "Балашиха, Реутов, Троицк",
-      "serviceDate": "05 января 2025 10:00",
-      "publishedAt": "15.06.2025 15:05",
-      "editedAt": null,
-      "likes": 15,
-      "dislikes": 2,
-      "createdAt": "2025-01-20T12:00:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "mobile": "+7 (***) ***-**-34",
-      "showPhone": true,
-      "qualityRating": 5,
-      "serviceDetails": [
-        {
-          "value": 5,
-          "name": "Время"
-        },
-        {
-          "value": 4.5,
-          "name": "Вежливость"
-        },
-        {
-          "value": 5,
-          "name": "Клиентоориентированность"
-        }
-      ],
-      "priceRating": 5,
-      "priceDetails": [
-        {
-          "value": 5,
-          "name": "Прозрачность ценообразования"
-        },
-        {
-          "value": 5,
-          "name": "Общее ощущение цены"
-        }
-      ],
-      "qualityDetails": [
-        {
-          "value": 5,
-          "name": "Надёжность и безопасность"
-        },
-        {
-          "value": 5,
-          "name": "Полнота оказания услуги"
-        },
-        {
-          "value": 5,
-          "name": "Компетентность"
-        }
-      ],
-      "serviceRating": 5,
-      "recommend": true
-    },
-    {
-      "id": "zm-u1-7",
-      "userId": "f13d",
-      "name": "Фёдоров М.",
-      "avatar": "/images/content/photo/1.jpg",
-      "avatarLetter": "Ф",
-      "text": "Перенавеска двери и замена петель — работа чистая, убрали за собой.",
-      "rating": 4.7,
-      "price": "9 900",
-      "breadcrumbs": [
-        "Ремонт сантехники"
-      ],
-      "city": "Санкт-Петербург",
-      "serviceDate": "10 января 2025 12:00",
-      "publishedAt": "15.07.2025 16:06",
-      "editedAt": null,
-      "likes": 16,
-      "dislikes": 0,
-      "createdAt": "2025-01-21T13:00:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "mobile": "+7 (***) ***-**-34",
-      "showPhone": true,
-      "qualityRating": 4,
-      "serviceDetails": [
-        {
-          "value": 5,
-          "name": "Время"
-        },
-        {
-          "value": 5,
-          "name": "Вежливость"
-        },
-        {
-          "value": 4.5,
-          "name": "Клиентоориентированность"
-        }
-      ],
-      "priceRating": 5,
-      "priceDetails": [
-        {
-          "value": 5,
-          "name": "Прозрачность ценообразования"
-        },
-        {
-          "value": 4,
-          "name": "Общее ощущение цены"
-        }
-      ],
-      "qualityDetails": [
-        {
-          "value": 4,
-          "name": "Надёжность и безопасность"
-        },
-        {
-          "value": 5,
-          "name": "Полнота оказания услуги"
-        },
-        {
-          "value": 4,
-          "name": "Компетентность"
-        }
-      ],
-      "serviceRating": 5,
-      "recommend": true
-    },
-    {
-      "id": "02e1",
-      "userId": "8f8e",
-      "organizationId": "121",
-      "name": "Антон Бородин",
-      "avatar": "/images/content/photo/user1.jpg",
-      "avatarLetter": "А",
-      "avatarColor": "#95d5e9",
-      "mobile": "+7 (***) ***-**-43",
-      "text": "Текст",
-      "rating": 5,
-      "priceRating": 5,
-      "qualityRating": 4,
-      "serviceRating": 5,
-      "priceDetails": [
-        {
-          "name": "Прозрачность ценообразования",
-          "value": 5
-        },
-        {
-          "name": "Ощущение ценности услуги",
-          "value": 4
-        }
-      ],
-      "qualityDetails": [
-        {
-          "name": "Надёжность и соответствие",
-          "value": 5
-        },
-        {
-          "name": "Полнота выполненных работ",
-          "value": 3
-        },
-        {
-          "name": "Профессионализм",
-          "value": 5
-        }
-      ],
-      "serviceDetails": [
-        {
-          "name": "Время ожидания и начала работы",
-          "value": 5
-        },
-        {
-          "name": "Вежливость",
-          "value": 4
-        },
-        {
-          "name": "Клиентоориентированность",
-          "value": 5
-        }
-      ],
-      "price": 1233,
-      "serviceDate": "2026-05-09",
-      "publishedAt": "2026-05-10T17:02:49.754Z",
-      "createdAt": "2026-05-10T17:02:49.754Z",
-      "editedAt": null,
-      "likes": 0,
-      "dislikes": 0,
-      "status": true
+      ]
     }
   ],
   "cities": [
