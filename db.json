@@ -32027,7 +32027,7 @@
       "name": "Алексей К.",
       "avatar": "/images/content/photo/1.jpg",
       "avatarLetter": "АК",
-      "text": "Заменили замок за один визит. Цена совпала с оценкой.",
+      "text": "Заменили замок за один визит. Цена совпала с оценкой. Лучшее предложение на рынке по соотношению цена качество. Рекомендую данную организацию как надежного, честно и качественного исполнителя.",
       "rating": 4.7,
       "price": "9 900",
       "breadcrumbs": [
@@ -32049,42 +32049,44 @@
       "recommend": true,
       "serviceDetails": [
         {
-          "value": 5,
-          "name": "Время"
+          "name": "Время ожидания и начала работы",
+          "value": 5
         },
         {
-          "value": 5,
-          "name": "Вежливость"
+          "name": "Вежливость",
+          "value": 5
         },
         {
-          "value": 5,
-          "name": "Компетентность"
+          "name": "Клиентоориентированность",
+          "value": 5
         }
       ],
       "priceDetails": [
         {
-          "value": 5,
-          "name": "Цена"
+          "name": "Прозрачность ценообразования",
+          "value": 5
         },
         {
-          "value": 5,
-          "name": "Смета"
+          "name": "Ощущение ценности услуги",
+          "value": 5
         }
       ],
       "qualityDetails": [
         {
-          "value": 5,
-          "name": "Аккуратность"
+          "name": "Надёжность и соответствие",
+          "value": 5
         },
         {
-          "value": 5,
-          "name": "Качество"
+          "name": "Полнота выполненных работ",
+          "value": 5
         },
         {
-          "value": 5,
-          "name": "Чистота"
+          "name": "Профессионализм",
+          "value": 5
         }
-      ]
+      ],
+      "editReason": "",
+      "editedAt": "2026-05-27T08:25:03.171Z"
     },
     {
       "id": "9472",
@@ -32216,6 +32218,196 @@
           "name": "Чистота"
         }
       ]
+    },
+    {
+      "id": "5339",
+      "userId": "1",
+      "organizationId": "12",
+      "name": "Иван Петров",
+      "avatar": "/images/content/photo/1.jpg",
+      "avatarLetter": "И",
+      "avatarColor": "#95d5e9",
+      "mobile": "+7 (***) ***-**-67",
+      "text": "Отличная работа!",
+      "rating": 5,
+      "priceRating": 5,
+      "qualityRating": 5,
+      "serviceRating": 5,
+      "priceDetails": [
+        {
+          "name": "Прозрачность ценообразования",
+          "value": 5
+        },
+        {
+          "name": "Общее ощущение цены",
+          "value": 5
+        }
+      ],
+      "qualityDetails": [
+        {
+          "name": "Полнота оказания услуги",
+          "value": 5
+        },
+        {
+          "name": "Надежность и безопасность",
+          "value": 5
+        },
+        {
+          "name": "Профессионализм",
+          "value": 5
+        }
+      ],
+      "serviceDetails": [
+        {
+          "name": "Время",
+          "value": 5
+        },
+        {
+          "name": "Вежливость",
+          "value": 5
+        },
+        {
+          "name": "Клиентоориентированность",
+          "value": 5
+        }
+      ],
+      "price": 1333,
+      "serviceDate": "2026-05-25",
+      "publishedAt": "2026-05-26T07:20:39.012Z",
+      "createdAt": "2026-05-26T07:20:39.012Z",
+      "editedAt": null,
+      "likes": 0,
+      "dislikes": 0,
+      "status": true
+    },
+    {
+      "id": "d1a0",
+      "userId": "1",
+      "organizationId": "12",
+      "name": "Иван Петров",
+      "avatar": "/images/content/photo/1.jpg",
+      "avatarLetter": "И",
+      "avatarColor": "#95d5e9",
+      "mobile": "+7 (***) ***-**-67",
+      "text": "Хорошая работа!",
+      "rating": 5,
+      "priceRating": 5,
+      "qualityRating": 4,
+      "serviceRating": 5,
+      "priceDetails": [
+        {
+          "name": "Прозрачность ценообразования",
+          "value": 5
+        },
+        {
+          "name": "Ощущение ценности услуги",
+          "value": 5
+        }
+      ],
+      "qualityDetails": [
+        {
+          "name": "Надёжность и соответствие",
+          "value": 5
+        },
+        {
+          "name": "Полнота выполненных работ",
+          "value": 5
+        },
+        {
+          "name": "Профессионализм",
+          "value": 5
+        }
+      ],
+      "serviceDetails": [
+        {
+          "name": "Время ожидания и начала работы",
+          "value": 5
+        },
+        {
+          "name": "Вежливость",
+          "value": 5
+        },
+        {
+          "name": "Клиентоориентированность",
+          "value": 5
+        }
+      ],
+      "price": 2333,
+      "serviceDate": "2026-05-26",
+      "publishedAt": "2026-05-26T07:21:26.887Z",
+      "createdAt": "2026-05-26T07:21:26.887Z",
+      "editedAt": null,
+      "likes": 0,
+      "dislikes": 0,
+      "status": true
+    },
+    {
+      "id": "5c4b",
+      "userId": "1",
+      "organizationId": "121",
+      "organizationName": "ЭлектроМастер Про",
+      "organizationUrl": "electro-master-pro",
+      "city": "Москва",
+      "breadcrumbs": [
+        "Вещи",
+        "Одежда и обуви"
+      ],
+      "name": "Иван Петров",
+      "avatar": "/images/content/photo/1.jpg",
+      "avatarLetter": "И",
+      "avatarColor": "#95d5e9",
+      "mobile": "+7 (***) ***-**-67",
+      "text": "Хорошая работа!",
+      "rating": 5,
+      "priceRating": 5,
+      "qualityRating": 5,
+      "serviceRating": 4,
+      "priceDetails": [
+        {
+          "name": "Прозрачность ценообразования",
+          "value": 0
+        },
+        {
+          "name": "Ощущение ценности услуги",
+          "value": 5
+        }
+      ],
+      "qualityDetails": [
+        {
+          "name": "Надёжность и соответствие",
+          "value": 5
+        },
+        {
+          "name": "Полнота выполненных работ",
+          "value": 5
+        },
+        {
+          "name": "Профессионализм",
+          "value": 5
+        }
+      ],
+      "serviceDetails": [
+        {
+          "name": "Время ожидания и начала работы",
+          "value": 5
+        },
+        {
+          "name": "Вежливость",
+          "value": 5
+        },
+        {
+          "name": "Клиентоориентированность",
+          "value": 5
+        }
+      ],
+      "price": 1222,
+      "serviceDate": "2026-05-26",
+      "publishedAt": "2026-05-27T07:29:05.647Z",
+      "createdAt": "2026-05-27T07:29:05.647Z",
+      "editedAt": null,
+      "likes": 0,
+      "dislikes": 0,
+      "status": true
     }
   ],
   "cities": [
@@ -34746,6 +34938,62 @@
       "publishedAt": "10.05.2026 10:24",
       "editedAt": null,
       "createdAt": "2026-05-10T07:24:52.498Z"
+    },
+    {
+      "id": "mpmertz640tc",
+      "reviewId": "9473",
+      "organizationId": "1",
+      "userId": "1",
+      "replyAs": "company",
+      "authorName": "Замочный мастер",
+      "avatarLetter": "З",
+      "avatar": null,
+      "organizationLogo": "/images/content/company/2.png",
+      "isCompanyOwner": true,
+      "parentReplyId": null,
+      "replyToName": "Антон Б.",
+      "text": "Здравствуйте!",
+      "publishedAt": "26.05.2026 12:03",
+      "editedAt": null,
+      "createdAt": "2026-05-26T09:03:57.570Z"
+    },
+    {
+      "id": "mpnqv55n2zsn",
+      "reviewId": "5c4b",
+      "organizationId": "121",
+      "userId": "f13d",
+      "replyAs": "company",
+      "authorName": "ЭлектроМастер Про",
+      "avatarLetter": "Э",
+      "avatar": null,
+      "organizationLogo": "/images/content/company/3.png",
+      "isCompanyOwner": true,
+      "parentReplyId": null,
+      "replyToName": "Иван Петров",
+      "text": "Спасибо за отзыв!",
+      "publishedAt": "27.05.2026 10:30",
+      "editedAt": null,
+      "createdAt": "2026-05-27T07:30:13.595Z"
+    },
+    {
+      "id": "mpnr93ftgpm2",
+      "reviewId": "5c4b",
+      "organizationId": "121",
+      "userId": "1",
+      "replyAs": "personal",
+      "authorName": "Иван Петров",
+      "avatarLetter": "И",
+      "avatar": "/images/content/photo/1.jpg",
+      "authorAvatar": "/images/content/photo/1.jpg",
+      "author-avatar": "/images/content/photo/1.jpg",
+      "organizationLogo": null,
+      "isCompanyOwner": false,
+      "parentReplyId": "mpnqv55n2zsn",
+      "replyToName": "ЭлектроМастер Про",
+      "text": "Будем на связи!)",
+      "publishedAt": "27.05.2026 10:41",
+      "editedAt": null,
+      "createdAt": "2026-05-27T07:41:04.553Z"
     }
   ]
 }

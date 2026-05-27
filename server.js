@@ -13,7 +13,7 @@ const middlewares = jsonServer.defaults({ static: publicDir })
 // CORS: список + любой поддомен task.ffox.site (и кастомный CORS_ORIGINS через env)
 const ALLOWED_ORIGINS = (
   process.env.CORS_ORIGINS ||
-  'https://task.ffox.site,https://www.task.ffox.site,http://localhost:3000,http://127.0.0.1:3000'
+  'https://task.ffox.site,https://www.task.ffox.site,http://localhost:3000,http://127.0.0.1:3000,http://localhost:3002,http://127.0.0.1:3002'
 )
   .split(',')
   .map((s) => s.trim())
