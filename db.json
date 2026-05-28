@@ -32357,7 +32357,7 @@
       "avatarLetter": "И",
       "avatarColor": "#95d5e9",
       "mobile": "+7 (***) ***-**-67",
-      "text": "Хорошая работа!",
+      "text": "Работа была выполнена быстро и качественно: кустарники были аккуратно обрезаны, цветники приведены в порядок",
       "rating": 5,
       "priceRating": 5,
       "qualityRating": 5,
@@ -32400,14 +32400,15 @@
           "value": 5
         }
       ],
-      "price": 1222,
+      "price": 2570,
       "serviceDate": "2026-05-26",
       "publishedAt": "2026-05-27T07:29:05.647Z",
       "createdAt": "2026-05-27T07:29:05.647Z",
-      "editedAt": null,
+      "editedAt": "2026-05-28T07:31:36.819Z",
       "likes": 0,
       "dislikes": 0,
-      "status": true
+      "status": true,
+      "editReason": ""
     }
   ],
   "cities": [
@@ -32674,17 +32675,17 @@
     },
     {
       "id": "7352",
-      "url": "https://rewew f",
+      "url": "https://rew.ru",
       "userId": "1",
       "createdAt": "2026-05-22T15:39:55.295Z",
       "status": "pending"
     },
     {
       "id": "6eaf",
-      "url": "https://wefewfewf",
+      "url": "https://wef.ru",
       "userId": "1",
       "createdAt": "2026-05-22T16:09:50.489Z",
-      "status": "pending"
+      "status": "rejected"
     }
   ],
   "messages": [
@@ -34970,9 +34971,9 @@
       "isCompanyOwner": true,
       "parentReplyId": null,
       "replyToName": "Иван Петров",
-      "text": "Спасибо за отзыв!",
+      "text": "Спасибо за отзыв!)",
       "publishedAt": "27.05.2026 10:30",
-      "editedAt": null,
+      "editedAt": "2026-05-28T08:07:49.446Z",
       "createdAt": "2026-05-27T07:30:13.595Z"
     },
     {
@@ -34990,9 +34991,9 @@
       "isCompanyOwner": false,
       "parentReplyId": "mpnqv55n2zsn",
       "replyToName": "ЭлектроМастер Про",
-      "text": "Будем на связи!)",
+      "text": "Будем на связи!",
       "publishedAt": "27.05.2026 10:41",
-      "editedAt": null,
+      "editedAt": "2026-05-28T08:06:25.198Z",
       "createdAt": "2026-05-27T07:41:04.553Z"
     }
   ]
