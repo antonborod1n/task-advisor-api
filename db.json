@@ -49,11 +49,6 @@
           "link": "https://vk.com/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -77,51 +72,25 @@
       "description": "Замочный мастер — ваш надежный партнер в мире замков и безопасности уже более 10 лет. Мы открываем двери без повреждений, ремонтируем и устанавливаем замки всех типов: от квартирных и офисных до автомобильных и сейфовых. Работаем 24/7 по всему Минску и области. Профессиональные мастера с гарантией на все услуги. Ваш покой — наша забота!",
       "services": [
         {
-          "category": "Замки и двери",
-          "items": [
-            "Изготовление ключей",
-            "Вскрытие замков",
-            "Установка и ремонт дверей"
-          ]
-        },
-        {
-          "category": "Ремонт техники",
-          "items": [
-            "Ремонт бытовой техники",
-            "Ремонт компьютеров",
-            "Ремонт телефонов",
-            "Установка техники",
-            "Настройка оборудования"
-          ]
-        },
-        {
           "category": "Дом и быт",
           "items": [
             "Клининг",
-            "Мастер на час",
-            "Санитарные работы",
-            "Прочистка дымо и газоходов"
+            "Мастер на час"
           ]
         },
         {
           "category": "Участок и переезды",
           "items": [
             "Работы на участке",
-            "Садовники",
-            "Бурение скважин",
-            "Перевозка вещей, переезды",
-            "Услуги грузчиков"
+            "Садовники"
           ]
         },
         {
           "category": "Безопасность и прочее",
           "items": [
-            "Вневедомственная охрана",
             "Охранники",
             "Страховщики",
-            "Оценщики",
-            "Аварийные службы",
-            "Устранение запахов, озонирование"
+            "Оценщики"
           ]
         }
       ],
@@ -204,8 +173,8 @@
           "confirm": false,
           "img": "/images/content/photo/1.jpg",
           "name": "40% на вскрытие замков",
-          "tip": "Промокод",
-          "time": "В течение года",
+          "tip": "Спецакция",
+          "time": "29.06.26",
           "description": "40% на вскрытие замков Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
         },
         {
@@ -214,7 +183,7 @@
           "img": "/images/content/photo/1.jpg",
           "name": "40% на вскрытие замков",
           "tip": "Промокод",
-          "time": "В течение года",
+          "time": "02.02.26",
           "description": "40% на вскрытие замков Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
         },
         {
@@ -223,7 +192,7 @@
           "img": "/images/content/photo/1.jpg",
           "name": "40% на вскрытие замков",
           "tip": "Промокод",
-          "time": "В течение года",
+          "time": "29.05.27",
           "description": "40% на вскрытие замков Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
         },
         {
@@ -232,7 +201,7 @@
           "img": "/images/content/photo/1.jpg",
           "name": "40% на вскрытие замков",
           "tip": "Промокод",
-          "time": "В течение года",
+          "time": "31.12.99",
           "description": "40% на вскрытие замков Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
         },
         {
@@ -240,44 +209,8 @@
           "confirm": false,
           "img": "/images/content/photo/1.jpg",
           "name": "40% на вскрытие замков",
-          "tip": "Промокод",
-          "time": "В течение года",
-          "description": "40% на вскрытие замков Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
-        },
-        {
-          "id": "6",
-          "confirm": false,
-          "img": "/images/content/photo/1.jpg",
-          "name": "40% на вскрытие замков",
-          "tip": "Промокод",
-          "time": "В течение года",
-          "description": "40% на вскрытие замков Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
-        },
-        {
-          "id": "7",
-          "confirm": false,
-          "img": "/images/content/photo/1.jpg",
-          "name": "40% на вскрытие замков",
-          "tip": "Промокод",
-          "time": "В течение года",
-          "description": "40% на вскрытие замков Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
-        },
-        {
-          "id": "8",
-          "confirm": false,
-          "img": "/images/content/photo/1.jpg",
-          "name": "40% на вскрытие замков",
-          "tip": "Промокод",
-          "time": "В течение года",
-          "description": "40% на вскрытие замков Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
-        },
-        {
-          "id": "9",
-          "confirm": false,
-          "img": "/images/content/photo/1.jpg",
-          "name": "40% на вскрытие замков",
-          "tip": "Промокод",
-          "time": "29.04.26",
+          "tip": "Спецакция",
+          "time": "29.06.26",
           "description": "40% на вскрытие замков Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
         }
       ],
@@ -430,7 +363,12 @@
           "percent": 1
         }
       ],
-      "metroDistance": 394.7
+      "metroDistance": 394.7,
+      "guaranteeType": "fixed",
+      "guaranteeMonths": 12,
+      "guaranteeFrom": null,
+      "guaranteeTo": null,
+      "contractWork": false
     },
     {
       "id": "3",
@@ -479,11 +417,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -757,11 +690,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -1043,11 +971,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -1265,11 +1188,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -1540,11 +1458,6 @@
           "link": "https://vk.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -1785,11 +1698,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -2052,11 +1960,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -2324,11 +2227,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -2574,11 +2472,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -2888,11 +2781,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -3115,11 +3003,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -3355,11 +3238,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -3582,11 +3460,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -3841,11 +3714,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -4069,11 +3937,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -4305,11 +4168,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -4564,11 +4422,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -4816,11 +4669,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -5063,11 +4911,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -5296,11 +5139,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -5537,11 +5375,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -5791,11 +5624,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -6037,11 +5865,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -6303,11 +6126,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -6558,11 +6376,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -6822,11 +6635,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -7049,11 +6857,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -7309,11 +7112,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -7536,11 +7334,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -7772,11 +7565,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -7998,11 +7786,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -8242,11 +8025,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -8476,11 +8254,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -8717,11 +8490,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -8971,11 +8739,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -9212,11 +8975,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -9441,11 +9199,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -9720,11 +9473,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -9948,11 +9696,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -10191,11 +9934,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -10420,11 +10158,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -10657,11 +10390,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -10889,11 +10617,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -11149,11 +10872,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -11376,11 +11094,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -11636,11 +11349,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -11888,11 +11596,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -12127,11 +11830,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -12383,11 +12081,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -12614,11 +12307,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -12868,11 +12556,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -13101,11 +12784,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -13349,11 +13027,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -13582,11 +13255,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -13843,11 +13511,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -14100,11 +13763,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -14331,11 +13989,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -14566,11 +14219,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -14822,11 +14470,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -15063,11 +14706,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -15291,11 +14929,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -15535,11 +15168,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -15763,11 +15391,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -16022,11 +15645,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -16249,11 +15867,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -16492,11 +16105,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -16721,11 +16329,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -16997,11 +16600,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -17230,11 +16828,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -17485,11 +17078,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -17724,11 +17312,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -17978,11 +17561,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -18212,11 +17790,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -18461,11 +18034,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -18695,11 +18263,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -18956,11 +18519,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -19207,11 +18765,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -19454,11 +19007,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -19687,11 +19235,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -19929,11 +19472,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -20163,11 +19701,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -20403,11 +19936,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -20663,11 +20191,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -20921,11 +20444,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -21165,11 +20683,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -21418,11 +20931,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -21651,11 +21159,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -21893,11 +21396,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -22142,11 +21640,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -22376,11 +21869,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -22604,11 +22092,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -22839,11 +22322,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -23080,11 +22558,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -23347,11 +22820,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -23596,11 +23064,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -23863,11 +23326,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -24108,11 +23566,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -24356,11 +23809,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -24600,11 +24048,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -24847,11 +24290,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -25088,11 +24526,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -25326,11 +24759,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -25580,11 +25008,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -25815,11 +25238,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -26047,11 +25465,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -26308,11 +25721,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -26539,11 +25947,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -26799,11 +26202,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -27035,11 +26433,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -27268,11 +26661,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -27522,11 +26910,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -27789,11 +27172,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -28034,11 +27412,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -28292,11 +27665,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -28527,11 +27895,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -28791,11 +28154,6 @@
           "link": "https://www.viber.com/ru/"
         },
         {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
-        },
-        {
           "name": "Facebook",
           "icon": "/images/icons/social/facebook.svg",
           "link": "https://www.facebook.com/"
@@ -29044,11 +28402,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Instagram",
-          "icon": "/images/icons/social/instagram.svg",
-          "link": "https://www.instagram.com/"
         },
         {
           "name": "Facebook",
@@ -33020,8 +32373,10 @@
       "userId": "1",
       "organizationId": "1",
       "organizationName": "Ключник",
+      "organizationUrl": "klyuchnik",
       "title": "Ключник",
-      "text": "Уважаемый(ая)! Компания благодарит вас за доверие! Мы рады, что смогли воплотить ваши идеи в жизнь ",
+      "question": "Здравствуйте! Есть ли у вас программа лояльности для постоянных клиентов при изготовлении ключей?",
+      "text": "Здравствуйте! Есть ли у вас программа лояльности для постоянных клиентов при изготовлении ключей?",
       "dateQuestion": "18.02.25 18:00",
       "dateAnswer": null,
       "hasAnswer": false,
@@ -33033,8 +32388,10 @@
       "userId": "1",
       "organizationId": null,
       "organizationName": "Замочный мастер",
+      "organizationUrl": "zamochnyy-master",
       "title": "Замочный мастер",
-      "text": "Пожалуйста, подтвердите удобство времени или сообщите о переносе по номеру 8 800 220 20 20. До связи!",
+      "question": "Добрый день! Можно ли изготовить дубликат квартирного ключа по коду, без оригинала?",
+      "text": "Добрый день! Можно ли изготовить дубликат квартирного ключа по коду, без оригинала?",
       "dateQuestion": "18.02.25 18:00",
       "dateAnswer": null,
       "hasAnswer": false,
@@ -33046,9 +32403,12 @@
       "userId": "1",
       "organizationId": "3",
       "organizationName": "Вилка Ключ",
+      "organizationUrl": "vilka-klyuch",
       "title": "Вилка Ключ",
-      "text": "Просим вас ознакомиться и дать добро на закупку. Ждем вашего подтверждения, чтобы двигаться дальше без задер ",
-      "dateQuestion": "18.02.25 18:00",
+      "question": "Какие виды работ вы выполняете по ремонту и замене замков?",
+      "text": "Да, выполняем ремонт цилиндров, замену личинок и установку замков. Выезд мастера — от 30 минут, стоимость озвучим после осмотра.",
+      "answer": "Да, выполняем ремонт цилиндров, замену личинок и установку замков. Выезд мастера — от 30 минут, стоимость озвучим после осмотра.",
+      "dateQuestion": "18.02.25 17:00",
       "dateAnswer": "18.02.25 18:00",
       "hasAnswer": true,
       "read": 1,
@@ -33059,8 +32419,11 @@
       "userId": "1",
       "organizationId": "1",
       "organizationName": "Ключник",
+      "organizationUrl": "klyuchnik",
       "title": "Ключник",
-      "text": "Спасибо за ваш вопрос. Мы готовы предоставить вам подробную информацию о наших услугах.",
+      "question": "Здравствуйте! Сколько стоит установка электронного замка на входную дверь?",
+      "text": "Установка электронного замка — от 2500 руб. с работой. Подберём модель под вашу дверь, выезд мастера для замера бесплатный.",
+      "answer": "Установка электронного замка — от 2500 руб. с работой. Подберём модель под вашу дверь, выезд мастера для замера бесплатный.",
       "dateQuestion": "19.02.25 10:00",
       "dateAnswer": "19.02.25 14:00",
       "hasAnswer": true,
@@ -33072,8 +32435,10 @@
       "userId": "1",
       "organizationId": "4",
       "organizationName": "Сантехник-профи",
+      "organizationUrl": "santekhnik-profi",
       "title": "Сантехник-профи",
-      "text": "Уточните, пожалуйста, удобное для вас время для проведения работ.",
+      "question": "Добрый день! Нужна замена смесителя на кухне. Когда ближайшая свободная дата у мастера?",
+      "text": "Добрый день! Нужна замена смесителя на кухне. Когда ближайшая свободная дата у мастера?",
       "dateQuestion": "20.02.25 09:00",
       "dateAnswer": null,
       "hasAnswer": false,
@@ -33087,14 +32452,14 @@
       "organizationName": "Ремонт мебели",
       "organizationUrl": "remont-mebeli",
       "title": "Ремонт мебели",
-      "text": "regegreg geg erg er g",
-      "question": "regegreg geg erg er g",
-      "avatar": "/images/content/company/2.png",
+      "question": "Можно ли восстановить фасад кухонного гарнитура после вздутия от влаги?",
+      "text": "Можно ли восстановить фасад кухонного гарнитура после вздутия от влаги?",
       "allowPublish": true,
       "dateQuestion": "29.03.26 11:34",
       "dateAnswer": null,
       "hasAnswer": false,
       "read": 0,
+      "avatar": "/images/content/company/2.png",
       "createdAt": "2026-03-29T08:34:40.178Z"
     },
     {
@@ -33104,14 +32469,14 @@
       "organizationName": "Ремонт мебели",
       "organizationUrl": "remont-mebeli",
       "title": "Ремонт мебели",
-      "text": "wffeewwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
-      "question": "wffeewwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
-      "avatar": "/images/content/company/2.png",
+      "question": "Сколько по времени занимает перетяжка обеденного стула с заменой наполнителя?",
+      "text": "Сколько по времени занимает перетяжка обеденного стула с заменой наполнителя?",
       "allowPublish": true,
       "dateQuestion": "29.03.26 11:30",
       "dateAnswer": null,
       "hasAnswer": false,
       "read": 0,
+      "avatar": "/images/content/company/2.png",
       "createdAt": "2026-03-29T08:30:16.737Z"
     },
     {
@@ -33121,14 +32486,14 @@
       "organizationName": "Ремонт мебели",
       "organizationUrl": "remont-mebeli",
       "title": "Ремонт мебели",
-      "text": "4433t 43 t 43t 43",
-      "question": "4433t 43 t 43t 43",
-      "avatar": "/images/content/company/2.png",
+      "question": "Делаете ли реставрацию деревянных стульев с сохранением оригинального тона?",
+      "text": "Делаете ли реставрацию деревянных стульев с сохранением оригинального тона?",
       "allowPublish": true,
       "dateQuestion": "29.03.26 11:33",
       "dateAnswer": null,
       "hasAnswer": false,
       "read": 0,
+      "avatar": "/images/content/company/2.png",
       "createdAt": "2026-03-29T08:33:15.386Z"
     },
     {
@@ -33138,14 +32503,14 @@
       "organizationName": "Мастер-ключ",
       "organizationUrl": "master-klyuch",
       "title": "Мастер-ключ",
-      "text": "Как дела твои дела?",
-      "question": "Как дела твои дела?",
-      "avatar": "/images/content/company/2.png",
+      "question": "Работаете ли вы в праздничные дни и можно ли вызвать мастера ночью?",
+      "text": "Работаете ли вы в праздничные дни и можно ли вызвать мастера ночью?",
       "allowPublish": true,
       "dateQuestion": "25.02.26 17:54",
       "dateAnswer": null,
       "hasAnswer": false,
       "read": 0,
+      "avatar": "/images/content/company/2.png",
       "createdAt": "2026-02-25T14:54:21.487Z"
     },
     {
@@ -33155,14 +32520,15 @@
       "organizationName": "Ремонт мебели",
       "organizationUrl": "remont-mebeli",
       "title": "Ремонт мебели",
-      "text": "Gjlcrf;b wtys yf dfib eckeub Ю",
-      "question": "Gjlcrf;b wtys yf dfib eckeub Ю",
-      "avatar": "/images/content/company/2.png",
+      "question": "Подскажите, где у вас находится мастерская и можно ли привезти стул на оценку?",
+      "text": "Мастерская на ул. Профсоюзная, 18. Привозите мебель в будни с 10:00 до 19:00 — оценка и сроки назовём в тот же день.",
+      "answer": "Мастерская на ул. Профсоюзная, 18. Привозите мебель в будни с 10:00 до 19:00 — оценка и сроки назовём в тот же день.",
       "allowPublish": true,
       "dateQuestion": "25.02.26 18:01",
       "dateAnswer": "25.02.26 18:02",
       "hasAnswer": true,
       "read": 0,
+      "avatar": "/images/content/company/2.png",
       "createdAt": "2026-02-25T15:01:27.155Z"
     },
     {
@@ -33172,14 +32538,15 @@
       "organizationName": "Ремонт мебели",
       "organizationUrl": "remont-mebeli",
       "title": "Ремонт мебели",
-      "text": "Подскажите где",
-      "question": "Подскажите где",
-      "avatar": "/images/content/company/2.png",
+      "question": "Подскажите, сколько стоит реставрация деревянного комода с заменой фурнитуры?",
+      "text": "Реставрация комода среднего размера — от 4500 руб., срок 5–7 рабочих дней. Точную цену скажем после осмотра.",
+      "answer": "Реставрация комода среднего размера — от 4500 руб., срок 5–7 рабочих дней. Точную цену скажем после осмотра.",
       "allowPublish": true,
       "dateQuestion": "26.02.26 13:29",
       "dateAnswer": "26.02.26 13:31",
       "hasAnswer": true,
       "read": 0,
+      "avatar": "/images/content/company/2.png",
       "createdAt": "2026-02-26T10:29:54.202Z"
     },
     {
@@ -33189,14 +32556,14 @@
       "organizationName": "Замочный мастер",
       "organizationUrl": "zamochnyy-master",
       "title": "Замочный мастер",
-      "text": "ewfwefew ew fwe fwe few fweewfw ew",
-      "question": "ewfwefew ew fwe fwe few fweewfw ew",
-      "avatar": "/images/content/company/2.png",
+      "question": "Можно ли открыть входную дверь без повреждений, если ключ остался внутри квартиры?",
+      "text": "Можно ли открыть входную дверь без повреждений, если ключ остался внутри квартиры?",
       "allowPublish": true,
       "dateQuestion": "10.05.26 18:54",
       "dateAnswer": null,
       "hasAnswer": false,
       "read": 0,
+      "avatar": "/images/content/company/2.png",
       "createdAt": "2026-05-10T15:54:07.783Z"
     },
     {
@@ -33206,14 +32573,14 @@
       "organizationName": "Замочный мастер",
       "organizationUrl": "zamochnyy-master",
       "title": "Замочный мастер",
-      "text": "ewrfew wer ewr wer wer",
-      "question": "ewrfew wer ewr wer wer",
-      "avatar": "/images/content/company/2.png",
+      "question": "Сколько стоит срочный выезд мастера для замены цилиндрового замка?",
+      "text": "Сколько стоит срочный выезд мастера для замены цилиндрового замка?",
       "allowPublish": true,
       "dateQuestion": "10.05.26 19:03",
       "dateAnswer": null,
       "hasAnswer": false,
       "read": 0,
+      "avatar": "/images/content/company/2.png",
       "createdAt": "2026-05-10T16:03:13.206Z"
     },
     {
@@ -33223,14 +32590,14 @@
       "organizationName": "Замочный мастер",
       "organizationUrl": "zamochnyy-master",
       "title": "Замочный мастер",
-      "text": "wger ger gre gerg er",
-      "question": "wger ger gre gerg er",
-      "avatar": "/images/content/company/2.png",
+      "question": "Устанавливаете ли вы замки с функцией антипаника для офисных помещений?",
+      "text": "Устанавливаете ли вы замки с функцией антипаника для офисных помещений?",
       "allowPublish": true,
       "dateQuestion": "10.05.26 19:05",
       "dateAnswer": null,
       "hasAnswer": false,
       "read": 0,
+      "avatar": "/images/content/company/2.png",
       "createdAt": "2026-05-10T16:05:10.758Z"
     },
     {
@@ -33240,14 +32607,14 @@
       "organizationName": "Замочный мастер",
       "organizationUrl": "zamochnyy-master",
       "title": "Замочный мастер",
-      "text": "egrg er gerg reger ger",
-      "question": "egrg er gerg reger ger",
-      "avatar": "/images/content/company/2.png",
+      "question": "Даёте ли вы гарантию на установку замков и вскрытие без повреждений?",
+      "text": "Даёте ли вы гарантию на установку замков и вскрытие без повреждений?",
       "allowPublish": false,
       "dateQuestion": "10.05.26 19:18",
       "dateAnswer": null,
       "hasAnswer": false,
       "read": 0,
+      "avatar": "/images/content/company/2.png",
       "createdAt": "2026-05-10T16:18:02.802Z"
     },
     {
@@ -33257,14 +32624,14 @@
       "organizationName": "Замочный мастер",
       "organizationUrl": "zamochnyy-master",
       "title": "Замочный мастер",
-      "text": "34r4 3r 443 sd ds sdf sdf sdf",
-      "question": "34r4 3r 443 sd ds sdf sdf sdf",
-      "avatar": "/images/content/company/2.png",
+      "question": "Нужен мастер на завтра вечером для регулировки металлической двери — есть свободные окна?",
+      "text": "Нужен мастер на завтра вечером для регулировки металлической двери — есть свободные окна?",
       "allowPublish": false,
       "dateQuestion": "11.05.26 09:57",
       "dateAnswer": null,
       "hasAnswer": false,
       "read": 0,
+      "avatar": "/images/content/company/2.png",
       "createdAt": "2026-05-11T06:57:43.591Z"
     }
   ],
@@ -33395,12 +32762,13 @@
       "organizationName": "Ключник",
       "questionAuthor": "Мария Козлова",
       "question": "Какие виды ключей вы изготавливаете?",
-      "answer": "eewewf few fwe few",
+      "answer": "Изготавливаем ключи для квартир, авто, сейфов и гаражей. Дубликаты — от 250 руб., срочно — от 400 руб., срок 10–20 минут.",
       "dateQuestion": "21.02.26 09:00",
       "dateAnswer": "26.02.26 13:39",
       "hasAnswer": true,
       "avatar": "/images/content/company/1.png",
-      "publish": true
+      "publish": true,
+      "text": "Изготавливаем ключи для квартир, авто, сейфов и гаражей. Дубликаты — от 250 руб., срочно — от 400 руб., срок 10–20 минут."
     },
     {
       "id": "2",
@@ -33744,12 +33112,13 @@
       "organizationName": "Ключник",
       "questionAuthor": "Иван Петров",
       "question": "Привет",
-      "answer": "Здравствуйте",
+      "answer": "Здравствуйте! Чем можем помочь? Опишите задачу — подскажем стоимость и сроки.",
       "dateQuestion": "26.02.26 13:46",
       "dateAnswer": "26.02.26 13:46",
       "hasAnswer": true,
       "publish": true,
-      "avatar": "/images/content/company/1.png"
+      "avatar": "/images/content/company/1.png",
+      "text": "Здравствуйте! Чем можем помочь? Опишите задачу — подскажем стоимость и сроки."
     }
   ],
   "conversationMessages": [
@@ -33772,16 +33141,6 @@
       "senderAvatar": "/images/content/company/1.png",
       "text": "Добрый день! Да, конечно поможем. Пришлите, пожалуйста, фото ключа, чтобы мы могли назвать точную стоимость.",
       "date": "18.02.25 17:10"
-    },
-    {
-      "id": "2ae9",
-      "parentCollection": "qna",
-      "parentId": "d99a",
-      "senderType": "user",
-      "senderName": "Вы",
-      "senderAvatar": "/images/content/company/2.png",
-      "text": "Подскажите почеиу",
-      "date": "26.02.26 13:31"
     },
     {
       "id": "3",
@@ -33812,16 +33171,6 @@
       "senderAvatar": "/images/content/avatar/1.png",
       "text": "Отлично, приду завтра около 11:00. Адрес у вас тот же, что на сайте?",
       "date": "18.02.25 17:55"
-    },
-    {
-      "id": "5baf",
-      "parentCollection": "qna",
-      "parentId": "ae99",
-      "senderType": "user",
-      "senderName": "Вы",
-      "senderAvatar": "/images/content/company/2.png",
-      "text": "вап вап вап",
-      "date": "25.02.26 18:02"
     },
     {
       "id": "6",
@@ -34334,76 +33683,6 @@
       "date": "12.02.26 16:45"
     },
     {
-      "id": "57",
-      "parentCollection": "qna",
-      "parentId": "1",
-      "senderType": "user",
-      "senderName": "Вы",
-      "senderAvatar": "/images/content/avatar/1.png",
-      "text": "Здравствуйте! Хотел бы узнать о вашей программе лояльности для постоянных клиентов.",
-      "date": "18.02.25 18:00"
-    },
-    {
-      "id": "58",
-      "parentCollection": "qna",
-      "parentId": "2",
-      "senderType": "user",
-      "senderName": "Вы",
-      "senderAvatar": "/images/content/avatar/1.png",
-      "text": "Добрый день! Можно ли у вас изготовить ключ по коду без оригинала?",
-      "date": "18.02.25 18:00"
-    },
-    {
-      "id": "59",
-      "parentCollection": "qna",
-      "parentId": "3",
-      "senderType": "user",
-      "senderName": "Вы",
-      "senderAvatar": "/images/content/avatar/1.png",
-      "text": "Скажите, пожалуйста, какие виды работ вы выполняете по ремонту замков?",
-      "date": "18.02.25 17:00"
-    },
-    {
-      "id": "60",
-      "parentCollection": "qna",
-      "parentId": "3",
-      "senderType": "org",
-      "senderName": "Вилка Ключ",
-      "senderAvatar": "/images/content/company/3.png",
-      "text": "Просим вас ознакомиться и дать добро на закупку. Ждем вашего подтверждения, чтобы двигаться дальше без задержек.",
-      "date": "18.02.25 18:00"
-    },
-    {
-      "id": "61",
-      "parentCollection": "qna",
-      "parentId": "4",
-      "senderType": "user",
-      "senderName": "Вы",
-      "senderAvatar": "/images/content/avatar/1.png",
-      "text": "Здравствуйте! Интересует стоимость установки электронного замка на входную дверь.",
-      "date": "19.02.25 10:00"
-    },
-    {
-      "id": "62",
-      "parentCollection": "qna",
-      "parentId": "4",
-      "senderType": "org",
-      "senderName": "Ключник",
-      "senderAvatar": "/images/content/company/1.png",
-      "text": "Спасибо за ваш вопрос. Мы готовы предоставить вам подробную информацию о наших услугах. Установка электронного замка — от 2500 руб., включая материалы.",
-      "date": "19.02.25 14:00"
-    },
-    {
-      "id": "63",
-      "parentCollection": "qna",
-      "parentId": "5",
-      "senderType": "user",
-      "senderName": "Вы",
-      "senderAvatar": "/images/content/avatar/1.png",
-      "text": "Добрый день! Нужна замена смесителя на кухне. Когда ближайшая доступная дата?",
-      "date": "20.02.25 09:00"
-    },
-    {
       "id": "64",
       "parentCollection": "orgQna",
       "parentId": "1",
@@ -34644,34 +33923,14 @@
       "date": "06.02.26 13:00"
     },
     {
-      "id": "862c",
-      "parentCollection": "qna",
-      "parentId": "d99a",
-      "senderType": "user",
-      "senderName": "Вы",
-      "senderAvatar": "/images/content/company/2.png",
-      "text": "Подскажите как",
-      "date": "26.02.26 13:30"
-    },
-    {
       "id": "3937",
       "parentCollection": "orgQna",
       "parentId": "1",
       "senderType": "org",
       "senderName": "Ключник",
       "senderAvatar": "/images/content/company/1.png",
-      "text": "eewewf few fwe few",
+      "text": "Изготавливаем ключи для квартир, авто, сейфов и гаражей. Дубликаты — от 250 руб., срочно — от 400 руб., срок 10–20 минут.",
       "date": "26.02.26 13:39"
-    },
-    {
-      "id": "9e07",
-      "parentCollection": "qna",
-      "parentId": "ae99",
-      "senderType": "user",
-      "senderName": "Вы",
-      "senderAvatar": "/images/content/company/2.png",
-      "text": "кп укпук ку пку ук",
-      "date": "25.02.26 18:02"
     },
     {
       "id": "2e19",
@@ -34694,16 +33953,6 @@
       "date": "26.02.26 13:16"
     },
     {
-      "id": "da27",
-      "parentCollection": "qna",
-      "parentId": "ae99",
-      "senderType": "user",
-      "senderName": "Вы",
-      "senderAvatar": "/images/content/company/2.png",
-      "text": "апавпвап вапав",
-      "date": "25.02.26 18:02"
-    },
-    {
       "id": "de05",
       "parentCollection": "messages",
       "parentId": "f5f6",
@@ -34722,6 +33971,116 @@
       "senderAvatar": "/images/content/avatar/1.png",
       "text": "Новое сообщение",
       "date": "26.02.26 13:29"
+    },
+    {
+      "id": "3938",
+      "parentCollection": "qna",
+      "parentId": "1",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Здравствуйте! Есть ли у вас программа лояльности для постоянных клиентов при изготовлении ключей?",
+      "date": "18.02.25 18:00"
+    },
+    {
+      "id": "3939",
+      "parentCollection": "qna",
+      "parentId": "2",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Добрый день! Можно ли изготовить дубликат квартирного ключа по коду, без оригинала?",
+      "date": "18.02.25 18:00"
+    },
+    {
+      "id": "3940",
+      "parentCollection": "qna",
+      "parentId": "3",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Какие виды работ вы выполняете по ремонту и замене замков?",
+      "date": "18.02.25 17:00"
+    },
+    {
+      "id": "3941",
+      "parentCollection": "qna",
+      "parentId": "3",
+      "senderType": "org",
+      "senderName": "Вилка Ключ",
+      "senderAvatar": "/images/content/company/3.png",
+      "text": "Да, выполняем ремонт цилиндров, замену личинок и установку замков. Выезд мастера — от 30 минут, стоимость озвучим после осмотра.",
+      "date": "18.02.25 18:00"
+    },
+    {
+      "id": "3942",
+      "parentCollection": "qna",
+      "parentId": "4",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Здравствуйте! Сколько стоит установка электронного замка на входную дверь?",
+      "date": "19.02.25 10:00"
+    },
+    {
+      "id": "3943",
+      "parentCollection": "qna",
+      "parentId": "4",
+      "senderType": "org",
+      "senderName": "Ключник",
+      "senderAvatar": "/images/content/company/1.png",
+      "text": "Установка электронного замка — от 2500 руб. с работой. Подберём модель под вашу дверь, выезд мастера для замера бесплатный.",
+      "date": "19.02.25 14:00"
+    },
+    {
+      "id": "3944",
+      "parentCollection": "qna",
+      "parentId": "5",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Добрый день! Нужна замена смесителя на кухне. Когда ближайшая свободная дата у мастера?",
+      "date": "20.02.25 09:00"
+    },
+    {
+      "id": "3945",
+      "parentCollection": "qna",
+      "parentId": "ae99",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Подскажите, где у вас находится мастерская и можно ли привезти стул на оценку?",
+      "date": "25.02.26 18:01"
+    },
+    {
+      "id": "3946",
+      "parentCollection": "qna",
+      "parentId": "ae99",
+      "senderType": "org",
+      "senderName": "Ремонт мебели",
+      "senderAvatar": "/images/content/company/2.png",
+      "text": "Мастерская на ул. Профсоюзная, 18. Привозите мебель в будни с 10:00 до 19:00 — оценка и сроки назовём в тот же день.",
+      "date": "25.02.26 18:02"
+    },
+    {
+      "id": "3947",
+      "parentCollection": "qna",
+      "parentId": "d99a",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Подскажите, сколько стоит реставрация деревянного комода с заменой фурнитуры?",
+      "date": "26.02.26 13:29"
+    },
+    {
+      "id": "3948",
+      "parentCollection": "qna",
+      "parentId": "d99a",
+      "senderType": "org",
+      "senderName": "Ремонт мебели",
+      "senderAvatar": "/images/content/company/2.png",
+      "text": "Реставрация комода среднего размера — от 4500 руб., срок 5–7 рабочих дней. Точную цену скажем после осмотра.",
+      "date": "26.02.26 13:31"
     }
   ],
   "favorites": [
