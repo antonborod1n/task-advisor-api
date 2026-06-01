@@ -32039,6 +32039,20 @@
       "userId": "1",
       "createdAt": "2026-05-22T16:09:50.489Z",
       "status": "rejected"
+    },
+    {
+      "id": "300b",
+      "url": "https://test.ru",
+      "userId": "1",
+      "createdAt": "2026-06-01T11:48:22.146Z",
+      "status": "pending"
+    },
+    {
+      "id": "1de4",
+      "url": "https://test.ru",
+      "userId": "1",
+      "createdAt": "2026-06-01T11:51:27.544Z",
+      "status": "pending"
     }
   ],
   "messages": [
@@ -32091,78 +32105,6 @@
       "avatar": "/images/content/avatar/1.png"
     },
     {
-      "id": "41b1",
-      "userId": "1",
-      "organizationId": "13",
-      "organizationName": "Ремонт мебели",
-      "title": "Ремонт мебели",
-      "text": "Здравтсуйте модскажтет",
-      "dateFirst": "26.02.26 12:33",
-      "dateLast": "26.02.26 12:33",
-      "read": 0,
-      "avatar": "/images/content/avatar/1.png"
-    },
-    {
-      "id": "76c3",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный м1астер12 ",
-      "title": "Замочный м1астер12 ",
-      "text": "уцукуцк уцк уцк уц куц",
-      "dateFirst": "26.02.26 12:22",
-      "dateLast": "26.02.26 12:22",
-      "read": 0,
-      "avatar": "/images/content/avatar/1.png"
-    },
-    {
-      "id": "160d",
-      "userId": "1",
-      "organizationId": "13",
-      "organizationName": "Ремонт мебели",
-      "title": "Ремонт мебели",
-      "text": "wefwfwefewfew",
-      "dateFirst": "29.03.26 09:27",
-      "dateLast": "29.03.26 09:27",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "1590",
-      "userId": "1",
-      "organizationId": null,
-      "organizationName": "Администрация",
-      "title": "Администрация",
-      "text": "Тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест тест",
-      "dateFirst": "28.04.26 11:34",
-      "dateLast": "28.04.26 11:34",
-      "read": 0,
-      "avatar": "/images/icons/logo-messages.svg"
-    },
-    {
-      "id": "9548",
-      "userId": "e2f0",
-      "organizationId": "13",
-      "organizationName": "Ремонт мебели",
-      "title": "Ремонт мебели",
-      "text": "Здравствуйте, подскажите Тест",
-      "dateFirst": "26.02.26 13:28",
-      "dateLast": "26.02.26 13:29",
-      "read": 1,
-      "avatar": "/images/content/avatar/1.png"
-    },
-    {
-      "id": "9558",
-      "userId": "1",
-      "organizationId": "13",
-      "organizationName": "Ремонт мебели",
-      "title": "Ремонт мебели",
-      "text": "retertret re tre tre ter",
-      "dateFirst": "27.03.26 20:55",
-      "dateLast": "27.03.26 20:55",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
       "id": "adm-8f8e",
       "userId": "8f8e",
       "organizationId": null,
@@ -32199,114 +32141,6 @@
       "avatar": "/images/icons/logo-message.svg"
     },
     {
-      "id": "b462",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный м1астер12 ",
-      "title": "Замочный м1астер12 ",
-      "text": "r23r2 r32 r32 r23",
-      "dateFirst": "25.02.26 22:41",
-      "dateLast": "25.02.26 22:41",
-      "read": 0,
-      "avatar": "/images/content/avatar/1.png"
-    },
-    {
-      "id": "b744",
-      "userId": "1",
-      "organizationId": null,
-      "organizationName": "Администрация",
-      "title": "Администрация",
-      "text": "Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест",
-      "dateFirst": "28.04.26 11:32",
-      "dateLast": "28.04.26 11:32",
-      "read": 0,
-      "avatar": "/images/icons/logo-messages.svg"
-    },
-    {
-      "id": "c235",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный м1астер12 ",
-      "title": "Замочный м1астер12 ",
-      "text": "куекуе куеку ку ку еу",
-      "dateFirst": "25.02.26 22:34",
-      "dateLast": "25.02.26 22:34",
-      "read": 0,
-      "avatar": "/images/content/avatar/1.png"
-    },
-    {
-      "id": "cb33",
-      "userId": "1",
-      "organizationId": "13",
-      "organizationName": "Ремонт мебели",
-      "title": "Ремонт мебели",
-      "text": "tufiytfrgcturvbjbc",
-      "dateFirst": "29.03.26 09:26",
-      "dateLast": "29.03.26 09:26",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "ebbc",
-      "userId": "1",
-      "organizationId": "13",
-      "organizationName": "Ремонт мебели",
-      "title": "Ремонт мебели",
-      "text": "werewrewrewrewrwerrrrrr",
-      "dateFirst": "27.03.26 20:51",
-      "dateLast": "27.03.26 20:51",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "ede8",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный м1астер12 ",
-      "title": "Замочный м1астер12 ",
-      "text": "1111111111 1222222222222 2 3123213",
-      "dateFirst": "25.02.26 22:49",
-      "dateLast": "25.02.26 22:49",
-      "read": 0,
-      "avatar": "/images/content/avatar/1.png"
-    },
-    {
-      "id": "f5f6",
-      "userId": "e2f0",
-      "organizationId": "13",
-      "organizationName": "Ремонт мебели",
-      "title": "Ремонт мебели",
-      "text": "У вас есть нога",
-      "dateFirst": "26.02.26 13:31",
-      "dateLast": "26.02.26 13:32",
-      "read": 1,
-      "avatar": "/images/content/avatar/1.png"
-    },
-    {
-      "id": "42ee",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "title": "Замочный мастер",
-      "text": "Здравствуйте!",
-      "dateFirst": "08.05.26 11:12",
-      "dateLast": "08.05.26 11:12",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "f33f",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "title": "Замочный мастер",
-      "text": "Здравствуйте!",
-      "dateFirst": "08.05.26 11:15",
-      "dateLast": "08.05.26 11:15",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
       "id": "3037",
       "userId": "1",
       "organizationId": "1",
@@ -32315,54 +32149,6 @@
       "text": "Добрый день! Занимаетесь ли вы вскрытием замков без повреждений? Закрылся входной замок с ключами внутри, нужна срочная помощь — сколько стоит и как быстро мастер сможет приехать?",
       "dateFirst": "10.05.26 10:30",
       "dateLast": "10.05.26 10:30",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "3c86",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "title": "Замочный мастер",
-      "text": "3223r 23r32 r32 r23r23",
-      "dateFirst": "10.05.26 11:22",
-      "dateLast": "10.05.26 11:22",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "009a",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "title": "Замочный мастер",
-      "text": "efw fewf ew few",
-      "dateFirst": "10.05.26 11:22",
-      "dateLast": "10.05.26 11:22",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "4407",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "title": "Замочный мастер",
-      "text": "ewrerew ewr ewr rewr",
-      "dateFirst": "10.05.26 11:26",
-      "dateLast": "10.05.26 11:26",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "0d4f",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "title": "Замочный мастер",
-      "text": "qdfeewf wefwefw",
-      "dateFirst": "10.05.26 18:07",
-      "dateLast": "10.05.26 18:07",
       "read": 0,
       "avatar": "/images/content/photo/1.jpg"
     }
@@ -32395,24 +32181,8 @@
       "dateQuestion": "18.02.25 18:00",
       "dateAnswer": null,
       "hasAnswer": false,
-      "read": 0,
-      "avatar": "/images/content/company/2.png"
-    },
-    {
-      "id": "3",
-      "userId": "1",
-      "organizationId": "3",
-      "organizationName": "Вилка Ключ",
-      "organizationUrl": "vilka-klyuch",
-      "title": "Вилка Ключ",
-      "question": "Какие виды работ вы выполняете по ремонту и замене замков?",
-      "text": "Да, выполняем ремонт цилиндров, замену личинок и установку замков. Выезд мастера — от 30 минут, стоимость озвучим после осмотра.",
-      "answer": "Да, выполняем ремонт цилиндров, замену личинок и установку замков. Выезд мастера — от 30 минут, стоимость озвучим после осмотра.",
-      "dateQuestion": "18.02.25 17:00",
-      "dateAnswer": "18.02.25 18:00",
-      "hasAnswer": true,
       "read": 1,
-      "avatar": "/images/content/company/3.png"
+      "avatar": "/images/content/company/2.png"
     },
     {
       "id": "4",
@@ -32427,212 +32197,8 @@
       "dateQuestion": "19.02.25 10:00",
       "dateAnswer": "19.02.25 14:00",
       "hasAnswer": true,
-      "read": 1,
+      "read": 0,
       "avatar": "/images/content/company/1.png"
-    },
-    {
-      "id": "5",
-      "userId": "1",
-      "organizationId": "4",
-      "organizationName": "Сантехник-профи",
-      "organizationUrl": "santekhnik-profi",
-      "title": "Сантехник-профи",
-      "question": "Добрый день! Нужна замена смесителя на кухне. Когда ближайшая свободная дата у мастера?",
-      "text": "Добрый день! Нужна замена смесителя на кухне. Когда ближайшая свободная дата у мастера?",
-      "dateQuestion": "20.02.25 09:00",
-      "dateAnswer": null,
-      "hasAnswer": false,
-      "read": 0,
-      "avatar": "/images/content/company/4.png"
-    },
-    {
-      "id": "7ab3",
-      "userId": "1",
-      "organizationId": "13",
-      "organizationName": "Ремонт мебели",
-      "organizationUrl": "remont-mebeli",
-      "title": "Ремонт мебели",
-      "question": "Можно ли восстановить фасад кухонного гарнитура после вздутия от влаги?",
-      "text": "Можно ли восстановить фасад кухонного гарнитура после вздутия от влаги?",
-      "allowPublish": true,
-      "dateQuestion": "29.03.26 11:34",
-      "dateAnswer": null,
-      "hasAnswer": false,
-      "read": 0,
-      "avatar": "/images/content/company/2.png",
-      "createdAt": "2026-03-29T08:34:40.178Z"
-    },
-    {
-      "id": "9f35",
-      "userId": "1",
-      "organizationId": "13",
-      "organizationName": "Ремонт мебели",
-      "organizationUrl": "remont-mebeli",
-      "title": "Ремонт мебели",
-      "question": "Сколько по времени занимает перетяжка обеденного стула с заменой наполнителя?",
-      "text": "Сколько по времени занимает перетяжка обеденного стула с заменой наполнителя?",
-      "allowPublish": true,
-      "dateQuestion": "29.03.26 11:30",
-      "dateAnswer": null,
-      "hasAnswer": false,
-      "read": 0,
-      "avatar": "/images/content/company/2.png",
-      "createdAt": "2026-03-29T08:30:16.737Z"
-    },
-    {
-      "id": "58ee",
-      "userId": "1",
-      "organizationId": "13",
-      "organizationName": "Ремонт мебели",
-      "organizationUrl": "remont-mebeli",
-      "title": "Ремонт мебели",
-      "question": "Делаете ли реставрацию деревянных стульев с сохранением оригинального тона?",
-      "text": "Делаете ли реставрацию деревянных стульев с сохранением оригинального тона?",
-      "allowPublish": true,
-      "dateQuestion": "29.03.26 11:33",
-      "dateAnswer": null,
-      "hasAnswer": false,
-      "read": 0,
-      "avatar": "/images/content/company/2.png",
-      "createdAt": "2026-03-29T08:33:15.386Z"
-    },
-    {
-      "id": "64e6",
-      "userId": "f13d",
-      "organizationId": "37",
-      "organizationName": "Мастер-ключ",
-      "organizationUrl": "master-klyuch",
-      "title": "Мастер-ключ",
-      "question": "Работаете ли вы в праздничные дни и можно ли вызвать мастера ночью?",
-      "text": "Работаете ли вы в праздничные дни и можно ли вызвать мастера ночью?",
-      "allowPublish": true,
-      "dateQuestion": "25.02.26 17:54",
-      "dateAnswer": null,
-      "hasAnswer": false,
-      "read": 0,
-      "avatar": "/images/content/company/2.png",
-      "createdAt": "2026-02-25T14:54:21.487Z"
-    },
-    {
-      "id": "ae99",
-      "userId": "f13d",
-      "organizationId": "13",
-      "organizationName": "Ремонт мебели",
-      "organizationUrl": "remont-mebeli",
-      "title": "Ремонт мебели",
-      "question": "Подскажите, где у вас находится мастерская и можно ли привезти стул на оценку?",
-      "text": "Мастерская на ул. Профсоюзная, 18. Привозите мебель в будни с 10:00 до 19:00 — оценка и сроки назовём в тот же день.",
-      "answer": "Мастерская на ул. Профсоюзная, 18. Привозите мебель в будни с 10:00 до 19:00 — оценка и сроки назовём в тот же день.",
-      "allowPublish": true,
-      "dateQuestion": "25.02.26 18:01",
-      "dateAnswer": "25.02.26 18:02",
-      "hasAnswer": true,
-      "read": 0,
-      "avatar": "/images/content/company/2.png",
-      "createdAt": "2026-02-25T15:01:27.155Z"
-    },
-    {
-      "id": "d99a",
-      "userId": "e2f0",
-      "organizationId": "13",
-      "organizationName": "Ремонт мебели",
-      "organizationUrl": "remont-mebeli",
-      "title": "Ремонт мебели",
-      "question": "Подскажите, сколько стоит реставрация деревянного комода с заменой фурнитуры?",
-      "text": "Реставрация комода среднего размера — от 4500 руб., срок 5–7 рабочих дней. Точную цену скажем после осмотра.",
-      "answer": "Реставрация комода среднего размера — от 4500 руб., срок 5–7 рабочих дней. Точную цену скажем после осмотра.",
-      "allowPublish": true,
-      "dateQuestion": "26.02.26 13:29",
-      "dateAnswer": "26.02.26 13:31",
-      "hasAnswer": true,
-      "read": 0,
-      "avatar": "/images/content/company/2.png",
-      "createdAt": "2026-02-26T10:29:54.202Z"
-    },
-    {
-      "id": "8931",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "organizationUrl": "zamochnyy-master",
-      "title": "Замочный мастер",
-      "question": "Можно ли открыть входную дверь без повреждений, если ключ остался внутри квартиры?",
-      "text": "Можно ли открыть входную дверь без повреждений, если ключ остался внутри квартиры?",
-      "allowPublish": true,
-      "dateQuestion": "10.05.26 18:54",
-      "dateAnswer": null,
-      "hasAnswer": false,
-      "read": 0,
-      "avatar": "/images/content/company/2.png",
-      "createdAt": "2026-05-10T15:54:07.783Z"
-    },
-    {
-      "id": "8515",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "organizationUrl": "zamochnyy-master",
-      "title": "Замочный мастер",
-      "question": "Сколько стоит срочный выезд мастера для замены цилиндрового замка?",
-      "text": "Сколько стоит срочный выезд мастера для замены цилиндрового замка?",
-      "allowPublish": true,
-      "dateQuestion": "10.05.26 19:03",
-      "dateAnswer": null,
-      "hasAnswer": false,
-      "read": 0,
-      "avatar": "/images/content/company/2.png",
-      "createdAt": "2026-05-10T16:03:13.206Z"
-    },
-    {
-      "id": "f276",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "organizationUrl": "zamochnyy-master",
-      "title": "Замочный мастер",
-      "question": "Устанавливаете ли вы замки с функцией антипаника для офисных помещений?",
-      "text": "Устанавливаете ли вы замки с функцией антипаника для офисных помещений?",
-      "allowPublish": true,
-      "dateQuestion": "10.05.26 19:05",
-      "dateAnswer": null,
-      "hasAnswer": false,
-      "read": 0,
-      "avatar": "/images/content/company/2.png",
-      "createdAt": "2026-05-10T16:05:10.758Z"
-    },
-    {
-      "id": "5eef",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "organizationUrl": "zamochnyy-master",
-      "title": "Замочный мастер",
-      "question": "Даёте ли вы гарантию на установку замков и вскрытие без повреждений?",
-      "text": "Даёте ли вы гарантию на установку замков и вскрытие без повреждений?",
-      "allowPublish": false,
-      "dateQuestion": "10.05.26 19:18",
-      "dateAnswer": null,
-      "hasAnswer": false,
-      "read": 0,
-      "avatar": "/images/content/company/2.png",
-      "createdAt": "2026-05-10T16:18:02.802Z"
-    },
-    {
-      "id": "3a3f",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "organizationUrl": "zamochnyy-master",
-      "title": "Замочный мастер",
-      "question": "Нужен мастер на завтра вечером для регулировки металлической двери — есть свободные окна?",
-      "text": "Нужен мастер на завтра вечером для регулировки металлической двери — есть свободные окна?",
-      "allowPublish": false,
-      "dateQuestion": "11.05.26 09:57",
-      "dateAnswer": null,
-      "hasAnswer": false,
-      "read": 0,
-      "avatar": "/images/content/company/2.png",
-      "createdAt": "2026-05-11T06:57:43.591Z"
     }
   ],
   "orgMessages": [
@@ -32739,19 +32305,6 @@
       "dateLast": "12.02.26 16:45",
       "read": 2,
       "avatar": "/images/content/avatar/1.png"
-    },
-    {
-      "id": "77c1",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationUrl": "zamochnyy-master",
-      "organizationName": "Замочный мастер",
-      "senderName": "Иван Петров",
-      "text": "Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест Тест",
-      "dateFirst": "28.04.26 11:32",
-      "dateLast": "28.04.26 11:32",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
     }
   ],
   "orgQna": [
@@ -32781,7 +32334,8 @@
       "dateQuestion": "18.02.26 11:00",
       "dateAnswer": "18.02.26 15:00",
       "hasAnswer": true,
-      "avatar": "/images/content/company/1.png"
+      "avatar": "/images/content/company/1.png",
+      "publish": false
     },
     {
       "id": "3",
@@ -33119,6 +32673,48 @@
       "publish": true,
       "avatar": "/images/content/company/1.png",
       "text": "Здравствуйте! Чем можем помочь? Опишите задачу — подскажем стоимость и сроки."
+    },
+    {
+      "id": "51a2",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Ключник",
+      "questionAuthor": "Иван Петров",
+      "question": "rrtegeger brg",
+      "answer": "eg regre gregerg",
+      "dateQuestion": "01.06.26 21:21",
+      "dateAnswer": "01.06.26 21:21",
+      "hasAnswer": true,
+      "publish": true,
+      "avatar": "/images/content/company/1.png"
+    },
+    {
+      "id": "7bc1",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Ключник",
+      "questionAuthor": "Иван Петров",
+      "question": "rgrege rger ger g",
+      "answer": "erg reg erg erg er ger ger",
+      "dateQuestion": "01.06.26 21:22",
+      "dateAnswer": "01.06.26 21:22",
+      "hasAnswer": true,
+      "publish": true,
+      "avatar": "/images/content/company/1.png"
+    },
+    {
+      "id": "3b22",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Ключник",
+      "questionAuthor": "Иван Петров",
+      "question": "efwf ewf",
+      "answer": "wefwe fwe fwef",
+      "dateQuestion": "01.06.26 21:25",
+      "dateAnswer": "01.06.26 21:25",
+      "hasAnswer": true,
+      "publish": true,
+      "avatar": "/images/content/company/1.png"
     }
   ],
   "conversationMessages": [
@@ -33973,26 +33569,6 @@
       "date": "26.02.26 13:29"
     },
     {
-      "id": "3938",
-      "parentCollection": "qna",
-      "parentId": "1",
-      "senderType": "user",
-      "senderName": "Вы",
-      "senderAvatar": "/images/content/avatar/1.png",
-      "text": "Здравствуйте! Есть ли у вас программа лояльности для постоянных клиентов при изготовлении ключей?",
-      "date": "18.02.25 18:00"
-    },
-    {
-      "id": "3939",
-      "parentCollection": "qna",
-      "parentId": "2",
-      "senderType": "user",
-      "senderName": "Вы",
-      "senderAvatar": "/images/content/avatar/1.png",
-      "text": "Добрый день! Можно ли изготовить дубликат квартирного ключа по коду, без оригинала?",
-      "date": "18.02.25 18:00"
-    },
-    {
       "id": "3940",
       "parentCollection": "qna",
       "parentId": "3",
@@ -34013,26 +33589,6 @@
       "date": "18.02.25 18:00"
     },
     {
-      "id": "3942",
-      "parentCollection": "qna",
-      "parentId": "4",
-      "senderType": "user",
-      "senderName": "Вы",
-      "senderAvatar": "/images/content/avatar/1.png",
-      "text": "Здравствуйте! Сколько стоит установка электронного замка на входную дверь?",
-      "date": "19.02.25 10:00"
-    },
-    {
-      "id": "3943",
-      "parentCollection": "qna",
-      "parentId": "4",
-      "senderType": "org",
-      "senderName": "Ключник",
-      "senderAvatar": "/images/content/company/1.png",
-      "text": "Установка электронного замка — от 2500 руб. с работой. Подберём модель под вашу дверь, выезд мастера для замера бесплатный.",
-      "date": "19.02.25 14:00"
-    },
-    {
       "id": "3944",
       "parentCollection": "qna",
       "parentId": "5",
@@ -34045,6 +33601,46 @@
     {
       "id": "3945",
       "parentCollection": "qna",
+      "parentId": "a1b2",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Работаете ли вы в выходные и можно ли заказать изготовление ключей на дом?",
+      "date": "21.02.25 11:00"
+    },
+    {
+      "id": "3946",
+      "parentCollection": "qna",
+      "parentId": "a1b2",
+      "senderType": "org",
+      "senderName": "Вилка Ключ",
+      "senderAvatar": "/images/content/company/3.png",
+      "text": "Да, в субботу и воскресенье с 10:00 до 18:00. Выезд мастера на дом — от 600 руб., изготовление на месте от 30 минут.",
+      "date": "21.02.25 12:00"
+    },
+    {
+      "id": "3947",
+      "parentCollection": "qna",
+      "parentId": "7ab3",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Можно ли восстановить фасад кухонного гарнитура после вздутия от влаги?",
+      "date": "29.03.26 11:34"
+    },
+    {
+      "id": "3948",
+      "parentCollection": "qna",
+      "parentId": "7ab3",
+      "senderType": "org",
+      "senderName": "Ремонт мебели",
+      "senderAvatar": "/images/content/company/2.png",
+      "text": "Да, восстанавливаем фасады МДФ и ЛДСП: шлифовка, подкраска и лак. Срок 3–5 дней, ориентир от 2800 руб. за фасад.",
+      "date": "29.03.26 14:20"
+    },
+    {
+      "id": "3949",
+      "parentCollection": "qna",
       "parentId": "ae99",
       "senderType": "user",
       "senderName": "Вы",
@@ -34053,7 +33649,7 @@
       "date": "25.02.26 18:01"
     },
     {
-      "id": "3946",
+      "id": "3950",
       "parentCollection": "qna",
       "parentId": "ae99",
       "senderType": "org",
@@ -34063,7 +33659,7 @@
       "date": "25.02.26 18:02"
     },
     {
-      "id": "3947",
+      "id": "3951",
       "parentCollection": "qna",
       "parentId": "d99a",
       "senderType": "user",
@@ -34073,7 +33669,7 @@
       "date": "26.02.26 13:29"
     },
     {
-      "id": "3948",
+      "id": "3952",
       "parentCollection": "qna",
       "parentId": "d99a",
       "senderType": "org",
@@ -34081,6 +33677,106 @@
       "senderAvatar": "/images/content/company/2.png",
       "text": "Реставрация комода среднего размера — от 4500 руб., срок 5–7 рабочих дней. Точную цену скажем после осмотра.",
       "date": "26.02.26 13:31"
+    },
+    {
+      "id": "3953",
+      "parentCollection": "qna",
+      "parentId": "8931",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Можно ли открыть входную дверь без повреждений, если ключ остался внутри квартиры?",
+      "date": "10.05.26 18:54"
+    },
+    {
+      "id": "3954",
+      "parentCollection": "qna",
+      "parentId": "8931",
+      "senderType": "org",
+      "senderName": "Замочный мастер",
+      "senderAvatar": "/images/content/company/2.png",
+      "text": "В большинстве случаев открываем без повреждений замка. Срочный выезд — от 1500 руб., время приезда 20–40 минут.",
+      "date": "10.05.26 19:10"
+    },
+    {
+      "id": "3955",
+      "parentCollection": "qna",
+      "parentId": "f276",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Устанавливаете ли вы замки с функцией антипаника для офисных помещений?",
+      "date": "10.05.26 19:05"
+    },
+    {
+      "id": "3956",
+      "parentCollection": "qna",
+      "parentId": "f276",
+      "senderType": "org",
+      "senderName": "Замочный мастер",
+      "senderAvatar": "/images/content/company/2.png",
+      "text": "Да, ставим замки антипаника для офисов и ТРЦ. Подбор по нормам пожарной безопасности, монтаж от 3500 руб.",
+      "date": "10.05.26 19:25"
+    },
+    {
+      "id": "3957",
+      "parentCollection": "qna",
+      "parentId": "3a3f",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Нужен мастер на завтра вечером для регулировки металлической двери — есть свободные окна?",
+      "date": "11.05.26 09:57"
+    },
+    {
+      "id": "3958",
+      "parentCollection": "qna",
+      "parentId": "3a3f",
+      "senderType": "org",
+      "senderName": "Замочный мастер",
+      "senderAvatar": "/images/content/company/2.png",
+      "text": "На завтра есть окно с 18:30 до 20:00. Регулировка двери — от 1200 руб., подтвердите адрес для записи.",
+      "date": "11.05.26 10:15"
+    },
+    {
+      "id": "3959",
+      "parentCollection": "qna",
+      "parentId": "1",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Здравствуйте! Есть ли у вас программа лояльности для постоянных клиентов при изготовлении ключей?",
+      "date": "18.02.25 18:00"
+    },
+    {
+      "id": "3960",
+      "parentCollection": "qna",
+      "parentId": "2",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Добрый день! Можно ли изготовить дубликат квартирного ключа по коду, без оригинала?",
+      "date": "18.02.25 18:00"
+    },
+    {
+      "id": "3961",
+      "parentCollection": "qna",
+      "parentId": "4",
+      "senderType": "user",
+      "senderName": "Вы",
+      "senderAvatar": "/images/content/avatar/1.png",
+      "text": "Здравствуйте! Сколько стоит установка электронного замка на входную дверь?",
+      "date": "19.02.25 10:00"
+    },
+    {
+      "id": "3962",
+      "parentCollection": "qna",
+      "parentId": "4",
+      "senderType": "org",
+      "senderName": "Ключник",
+      "senderAvatar": "/images/content/company/1.png",
+      "text": "Установка электронного замка — от 2500 руб. с работой. Подберём модель под вашу дверь, выезд мастера для замера бесплатный.",
+      "date": "19.02.25 14:00"
     }
   ],
   "favorites": [
