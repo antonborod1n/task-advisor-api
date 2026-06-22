@@ -22,8 +22,7 @@
       "fixPrice": true,
       "tips": [
         "есть гарантии",
-        "есть скидки и акции",
-        "работа по договору"
+        "есть скидки и акции"
       ],
       "favorite": true,
       "hasReview": true,
@@ -95,10 +94,7 @@
           ]
         }
       ],
-      "guarantee": "Организация предоставляет гарантию от 6 до 36 месяцев",
-      "contractWork": false,
-      "views": 189987,
-      "updated": "Последнее обновление вчера 18:00",
+      "guarantee": "12 месяцев",
       "faq": [
         {
           "id": "1",
@@ -371,7 +367,8 @@
       "guaranteeType": "fixed",
       "guaranteeMonths": 12,
       "guaranteeFrom": null,
-      "guaranteeTo": null
+      "guaranteeTo": null,
+      "contractWork": false
     },
     {
       "id": "3",
@@ -472,7 +469,6 @@
         }
       ],
       "guarantee": "Организация предоставляет гарантию от 6 до 36 месяцев",
-      "contractWork": true,
       "faq": [
         {
           "id": "1",
@@ -1507,7 +1503,6 @@
         "Охранники"
       ],
       "guarantee": "Организация предоставляет гарантию от 6 до 36 месяцев",
-      "contractWork": true,
       "faq": [
         {
           "id": "1",
@@ -28454,7 +28449,6 @@
         "Пошив одежды"
       ],
       "guarantee": "Организация предоставляет гарантию от 6 до 36 месяцев",
-      "contractWork": true,
       "faq": [
         {
           "id": "1",
@@ -31330,7 +31324,7 @@
       "city": "Москва",
       "serviceDate": "2025-05-05",
       "publishedAt": "06.01.2025 15:00",
-      "likes": 90,
+      "likes": 89,
       "dislikes": 1,
       "createdAt": "2025-01-06T15:00:00Z",
       "status": true,
@@ -31383,9 +31377,9 @@
     {
       "id": "9471",
       "userId": "1",
-      "name": "Иван Петров",
+      "name": "Алексей К.",
       "avatar": "/images/content/photo/1.jpg",
-      "avatarLetter": "И",
+      "avatarLetter": "АК",
       "text": "Заменили замок за один визит. Цена совпала с оценкой. Лучшее предложение на рынке по соотношению цена качество. Рекомендую данную организацию как надежного, честно и качественного исполнителя.",
       "rating": 4.7,
       "price": "9 900",
@@ -31427,7 +31421,7 @@
         },
         {
           "name": "Ощущение ценности услуги",
-          "value": 4
+          "value": 5
         }
       ],
       "qualityDetails": [
@@ -31437,7 +31431,7 @@
         },
         {
           "name": "Полнота выполненных работ",
-          "value": 4
+          "value": 5
         },
         {
           "name": "Профессионализм",
@@ -31445,14 +31439,14 @@
         }
       ],
       "editReason": "",
-      "editedAt": "2026-06-22T13:32:21.390Z"
+      "editedAt": "2026-05-27T08:25:03.171Z"
     },
     {
       "id": "9472",
       "userId": "1",
-      "name": "Иван Петров",
+      "name": "Ольга Н.",
       "avatar": "/images/content/photo/1.jpg",
-      "avatarLetter": "И",
+      "avatarLetter": "ОН",
       "text": "Работа выполнена аккуратно. Рекомендую мастера.",
       "rating": 5,
       "price": "3 555",
@@ -31462,7 +31456,7 @@
       "city": "Москва",
       "serviceDate": "2025-05-12",
       "publishedAt": "02.01.2026 12:00",
-      "likes": 90,
+      "likes": 89,
       "dislikes": 1,
       "createdAt": "2026-01-02T09:00:00.000Z",
       "status": true,
@@ -31577,86 +31571,6 @@
           "name": "Чистота"
         }
       ]
-    },
-    {
-      "id": "9474",
-      "userId": "2",
-      "name": "Елена В.",
-      "avatar": "/images/content/photo/1.jpg",
-      "avatarLetter": "ЕВ",
-      "text": "Быстро приехали ночью, замок заменили без лишних вопросов.",
-      "rating": 5,
-      "price": "4 200",
-      "breadcrumbs": [
-        "Вскрытие замков"
-      ],
-      "city": "Реутов",
-      "serviceDate": "2025-06-01",
-      "publishedAt": "04.01.2026 11:00",
-      "likes": 42,
-      "dislikes": 0,
-      "createdAt": "2026-01-04T08:00:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "mobile": "+7 (***) ***-**-67",
-      "showPhone": true,
-      "qualityRating": 5,
-      "priceRating": 5,
-      "serviceRating": 5,
-      "recommend": true
-    },
-    {
-      "id": "9475",
-      "userId": "3",
-      "name": "Дмитрий Р.",
-      "avatar": "/images/content/photo/1.jpg",
-      "avatarLetter": "ДР",
-      "text": "Профессионально установили новый цилиндр, всё работает отлично.",
-      "rating": 4.8,
-      "price": "6 500",
-      "breadcrumbs": [
-        "Установка замков"
-      ],
-      "city": "Троицк",
-      "serviceDate": "2025-06-10",
-      "publishedAt": "05.01.2026 14:30",
-      "likes": 28,
-      "dislikes": 1,
-      "createdAt": "2026-01-05T11:30:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "mobile": "+7 (***) ***-**-43",
-      "showPhone": true,
-      "qualityRating": 5,
-      "priceRating": 4,
-      "serviceRating": 5,
-      "recommend": true
-    },
-    {
-      "id": "9476",
-      "userId": "4",
-      "name": "Светлана М.",
-      "avatar": "/images/content/photo/1.jpg",
-      "avatarLetter": "СМ",
-      "text": "Понятные цены, аккуратная работа, рекомендую.",
-      "rating": 4.9,
-      "price": "3 800",
-      "breadcrumbs": [
-        "Замки и двери"
-      ],
-      "city": "Балашиха",
-      "serviceDate": "2025-06-15",
-      "publishedAt": "06.01.2026 09:15",
-      "likes": 19,
-      "dislikes": 0,
-      "createdAt": "2026-01-06T06:15:00.000Z",
-      "status": true,
-      "organizationId": "1",
-      "showPhone": false,
-      "qualityRating": 5,
-      "priceRating": 5,
-      "serviceRating": 4,
-      "recommend": true
     },
     {
       "id": "5339",
@@ -32102,54 +32016,6 @@
       "password": "123456",
       "phone": "+7 (232) 423-42-34",
       "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "04b7",
-      "name": "Anton Borodin",
-      "email": "s@mail.ru",
-      "password": "12345678",
-      "phone": "+7 (321) 321-31-23",
-      "avatar": null
-    },
-    {
-      "id": "43f6",
-      "name": "Anton Boro",
-      "email": "aaa@mail.ru",
-      "password": "12345678",
-      "phone": "+7 (111) 111-11-11",
-      "avatar": null
-    },
-    {
-      "id": "626b",
-      "name": "An As",
-      "email": "",
-      "password": "1234567890",
-      "phone": "+7 (111) 111-11-11",
-      "avatar": null
-    },
-    {
-      "id": "0238",
-      "name": "Da",
-      "email": "",
-      "password": "1234567890",
-      "phone": "+7 (222) 222-22-22",
-      "avatar": null
-    },
-    {
-      "id": "376a",
-      "name": "Пользователь",
-      "email": "",
-      "password": "1234567890",
-      "phone": "+7 (111) 111-11-11",
-      "avatar": null
-    },
-    {
-      "id": "2fb3",
-      "name": "Ad Da",
-      "email": "",
-      "password": "1234567890",
-      "phone": "+7 (111) 111-11-11",
-      "avatar": null
     }
   ],
   "pendingSites": [
@@ -32207,90 +32073,6 @@
       "url": "https://ter.ru",
       "userId": "1",
       "createdAt": "2026-06-05T08:05:14.289Z",
-      "status": "pending"
-    },
-    {
-      "id": "ec1c",
-      "url": "https://test-add.com",
-      "userId": "1",
-      "createdAt": "2026-06-17T07:00:00.000Z",
-      "status": "pending"
-    },
-    {
-      "id": "fab5",
-      "url": "https://example-modal-test.com",
-      "userId": "1",
-      "createdAt": "2026-06-17T07:48:38.850Z",
-      "status": "pending"
-    },
-    {
-      "id": "bb07",
-      "url": "https://mobile-step2-test.com",
-      "userId": "1",
-      "createdAt": "2026-06-17T07:50:49.678Z",
-      "status": "pending"
-    },
-    {
-      "id": "ccfa",
-      "url": "https://step2-check.com",
-      "userId": "1",
-      "createdAt": "2026-06-17T07:59:51.072Z",
-      "status": "pending"
-    },
-    {
-      "id": "d00c",
-      "url": "https://fgergerge",
-      "userId": "1",
-      "createdAt": "2026-06-17T08:00:32.136Z",
-      "status": "pending"
-    },
-    {
-      "id": "8b0e",
-      "url": "https://wefewfwe",
-      "userId": "1",
-      "createdAt": "2026-06-17T08:01:09.664Z",
-      "status": "pending"
-    },
-    {
-      "id": "8b98",
-      "url": "https://regfergerg",
-      "userId": "1",
-      "createdAt": "2026-06-17T08:03:22.180Z",
-      "status": "pending"
-    },
-    {
-      "id": "c609",
-      "url": "https://43543534",
-      "userId": "1",
-      "createdAt": "2026-06-17T08:09:13.530Z",
-      "status": "pending"
-    },
-    {
-      "id": "b88b",
-      "url": "https://fdgdfegd",
-      "userId": "1",
-      "createdAt": "2026-06-17T08:10:52.651Z",
-      "status": "pending"
-    },
-    {
-      "id": "3a7a",
-      "url": "https://hrthtrh",
-      "userId": "1",
-      "createdAt": "2026-06-17T08:13:36.470Z",
-      "status": "pending"
-    },
-    {
-      "id": "cbb3",
-      "url": "https://trthrth",
-      "userId": "1",
-      "createdAt": "2026-06-17T08:14:24.447Z",
-      "status": "pending"
-    },
-    {
-      "id": "8695",
-      "url": "https://werrfwtew",
-      "userId": "8f8e",
-      "createdAt": "2026-06-18T10:05:53.502Z",
       "status": "pending"
     }
   ],
@@ -32392,78 +32174,6 @@
       "dateLast": "10.05.26 10:30",
       "read": 0,
       "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "889a",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "title": "Замочный мастер",
-      "text": "ewwf ewfwe fwe fwef w",
-      "dateFirst": "15.06.26 19:11",
-      "dateLast": "15.06.26 19:11",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "0104",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "title": "Замочный мастер",
-      "text": "ergerge erg eger",
-      "dateFirst": "15.06.26 19:14",
-      "dateLast": "15.06.26 19:14",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "5b97",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "title": "Замочный мастер",
-      "text": "wqewqewq e qwwe wqe",
-      "dateFirst": "15.06.26 19:14",
-      "dateLast": "15.06.26 19:14",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "f75f",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "title": "Замочный мастер",
-      "text": "ццуа цауца цуа цу",
-      "dateFirst": "17.06.26 18:08",
-      "dateLast": "17.06.26 18:08",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "74f7",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "title": "Замочный мастер",
-      "text": "укепрук пкуп куп у",
-      "dateFirst": "17.06.26 18:09",
-      "dateLast": "17.06.26 18:09",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
-    },
-    {
-      "id": "cd6a",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "title": "Замочный мастер",
-      "text": "ewfewfewf ewf ew",
-      "dateFirst": "18.06.26 09:24",
-      "dateLast": "18.06.26 09:24",
-      "read": 0,
-      "avatar": "/images/content/photo/1.jpg"
     }
   ],
   "qna": [
@@ -32512,57 +32222,6 @@
       "hasAnswer": true,
       "read": 0,
       "avatar": "/images/content/company/1.png"
-    },
-    {
-      "id": "49f6",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "organizationUrl": "zamochnyy-master",
-      "title": "Замочный мастер",
-      "text": "ertertr eter tert",
-      "question": "ertertr eter tert",
-      "avatar": "/images/content/company/2.png",
-      "allowPublish": true,
-      "dateQuestion": "15.06.26 19:32",
-      "dateAnswer": null,
-      "hasAnswer": false,
-      "read": 0,
-      "createdAt": "2026-06-15T16:32:46.865Z"
-    },
-    {
-      "id": "1aa0",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "organizationUrl": "zamochnyy-master",
-      "title": "Замочный мастер",
-      "text": "rwertretertre",
-      "question": "rwertretertre",
-      "avatar": "/images/content/company/2.png",
-      "allowPublish": true,
-      "dateQuestion": "18.06.26 09:49",
-      "dateAnswer": null,
-      "hasAnswer": false,
-      "read": 0,
-      "createdAt": "2026-06-18T06:49:10.248Z"
-    },
-    {
-      "id": "034f",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "organizationUrl": "zamochnyy-master",
-      "title": "Замочный мастер",
-      "text": "ewfwrewrewrew",
-      "question": "ewfwrewrewrew",
-      "avatar": "/images/content/company/2.png",
-      "allowPublish": true,
-      "dateQuestion": "18.06.26 09:59",
-      "dateAnswer": null,
-      "hasAnswer": false,
-      "read": 0,
-      "createdAt": "2026-06-18T06:59:24.613Z"
     }
   ],
   "orgMessages": [
@@ -32675,6 +32334,65 @@
     }
   ],
   "orgQna": [
+    {
+      "id": "1",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Ключник",
+      "questionAuthor": "Мария Козлова",
+      "question": "Какие виды ключей вы изготавливаете?",
+      "answer": "Уважаемый(ая) [Имя клиента]! Ваша заявка №[номер] принята. Мастер [Имя Мастера] выехал к вам по адресу [Адрес]. Ориентировочное время прибытия: 15-20 мин. Его контактный телефон: +7 (915) 123-45-67. Трекер поездки: [ссылка на трекер]. Служба «Ключник».",
+      "dateQuestion": "21.02.26 09:00",
+      "dateAnswer": "26.02.26 13:39",
+      "hasAnswer": true,
+      "avatar": "/images/content/company/1.png",
+      "publish": true,
+      "text": "Уважаемый(ая) [Имя клиента]! Ваша заявка №[номер] принята. Мастер [Имя Мастера] выехал к вам по адресу [Адрес]. Ориентировочное время прибытия: 15-20 мин. Его контактный телефон: +7 (915) 123-45-67. Трекер поездки: [ссылка на трекер]. Служба «Ключник»."
+    },
+    {
+      "id": "2",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Ключник",
+      "questionAuthor": "Дмитрий Волков",
+      "question": "Работаете ли вы в выходные дни?",
+      "answer": "Уважаемый(ая) [Имя клиента]! Ваша заявка №[номер] принята. Мастер [Имя Мастера] выехал к вам по адресу [Адрес]. Ориентировочное время прибытия: 15-20 мин. Его контактный телефон: +7 (915) 123-45-67. Трекер поездки: [ссылка на трекер]. Служба «Ключник».",
+      "dateQuestion": "18.02.26 11:00",
+      "dateAnswer": "18.02.26 15:00",
+      "hasAnswer": true,
+      "avatar": "/images/content/company/1.png",
+      "publish": true,
+      "text": "Уважаемый(ая) [Имя клиента]! Ваша заявка №[номер] принята. Мастер [Имя Мастера] выехал к вам по адресу [Адрес]. Ориентировочное время прибытия: 15-20 мин. Его контактный телефон: +7 (915) 123-45-67. Трекер поездки: [ссылка на трекер]. Служба «Ключник»."
+    },
+    {
+      "id": "3",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Ключник",
+      "questionAuthor": "Анна Сидорова",
+      "question": "Сколько стоит срочное изготовление ключа?",
+      "answer": "Уважаемый(ая) [Имя клиента]! Ваша заявка №[номер] принята. Мастер [Имя Мастера] выехал к вам по адресу [Адрес]. Ориентировочное время прибытия: 15-20 мин. Его контактный телефон: +7 (915) 123-45-67. Трекер поездки: [ссылка на трекер]. Служба «Ключник».",
+      "dateQuestion": "20.02.26 14:30",
+      "dateAnswer": "20.02.26 15:10",
+      "hasAnswer": true,
+      "avatar": "/images/content/company/1.png",
+      "publish": true,
+      "text": "Уважаемый(ая) [Имя клиента]! Ваша заявка №[номер] принята. Мастер [Имя Мастера] выехал к вам по адресу [Адрес]. Ориентировочное время прибытия: 15-20 мин. Его контактный телефон: +7 (915) 123-45-67. Трекер поездки: [ссылка на трекер]. Служба «Ключник»."
+    },
+    {
+      "id": "4",
+      "userId": "1",
+      "organizationId": "1",
+      "organizationName": "Ключник",
+      "questionAuthor": "Сергей Новиков",
+      "question": "Можете ли вы открыть замок без ключа?",
+      "answer": "Уважаемый(ая) [Имя клиента]! Ваша заявка №[номер] принята. Мастер [Имя Мастера] выехал к вам по адресу [Адрес]. Ориентировочное время прибытия: 15-20 мин. Его контактный телефон: +7 (915) 123-45-67. Трекер поездки: [ссылка на трекер]. Служба «Ключник».",
+      "dateQuestion": "19.02.26 10:00",
+      "dateAnswer": "19.02.26 11:30",
+      "hasAnswer": true,
+      "avatar": "/images/content/company/1.png",
+      "text": "Уважаемый(ая) [Имя клиента]! Ваша заявка №[номер] принята. Мастер [Имя Мастера] выехал к вам по адресу [Адрес]. Ориентировочное время прибытия: 15-20 мин. Его контактный телефон: +7 (915) 123-45-67. Трекер поездки: [ссылка на трекер]. Служба «Ключник»."
+    },
     {
       "id": "5",
       "userId": "1",
@@ -32987,7 +32705,7 @@
       "id": "c4db",
       "userId": "1",
       "organizationId": "1",
-      "organizationName": "Замочный мастер",
+      "organizationName": "Ключник",
       "questionAuthor": "Иван Петров",
       "question": "Здравствуйте!",
       "answer": "Уважаемый(ая) [Имя клиента]! Ваша заявка №[номер] принята. Мастер [Имя Мастера] выехал к вам по адресу [Адрес]. Ориентировочное время прибытия: 15-20 мин. Его контактный телефон: +7 (915) 123-45-67. Трекер поездки: [ссылка на трекер]. Служба «Ключник».",
@@ -32997,48 +32715,6 @@
       "publish": true,
       "avatar": "/images/content/company/1.png",
       "text": "Уважаемый(ая) [Имя клиента]! Ваша заявка №[номер] принята. Мастер [Имя Мастера] выехал к вам по адресу [Адрес]. Ориентировочное время прибытия: 15-20 мин. Его контактный телефон: +7 (915) 123-45-67. Трекер поездки: [ссылка на трекер]. Служба «Ключник»."
-    },
-    {
-      "id": "286a",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "questionAuthor": "Иван Петров",
-      "question": "rret ret ert e",
-      "answer": "tre t ret ert",
-      "dateQuestion": "18.06.26 13:57",
-      "dateAnswer": "18.06.26 13:57",
-      "hasAnswer": true,
-      "publish": true,
-      "avatar": "/images/content/company/1.png"
-    },
-    {
-      "id": "d9bf",
-      "userId": "1",
-      "organizationId": "6",
-      "organizationName": "Мастер на все руки",
-      "questionAuthor": "Иван Петров",
-      "question": "trhrhr",
-      "answer": "rhtrthr",
-      "dateQuestion": "18.06.26 14:00",
-      "dateAnswer": "18.06.26 14:00",
-      "hasAnswer": true,
-      "publish": true,
-      "avatar": "/images/content/company/1.png"
-    },
-    {
-      "id": "ef40",
-      "userId": "1",
-      "organizationId": "1",
-      "organizationName": "Замочный мастер",
-      "questionAuthor": "Иван Петров",
-      "question": "werewrew",
-      "answer": "fwefw",
-      "dateQuestion": "18.06.26 14:03",
-      "dateAnswer": "18.06.26 14:03",
-      "hasAnswer": true,
-      "publish": true,
-      "avatar": "/images/content/company/1.png"
     }
   ],
   "conversationMessages": [
@@ -33603,6 +33279,76 @@
       "date": "12.02.26 16:45"
     },
     {
+      "id": "64",
+      "parentCollection": "orgQna",
+      "parentId": "1",
+      "senderType": "user",
+      "senderName": "Мария Козлова",
+      "senderAvatar": "/images/content/avatar/2.png",
+      "text": "Какие виды ключей вы изготавливаете?",
+      "date": "21.02.26 09:00"
+    },
+    {
+      "id": "65",
+      "parentCollection": "orgQna",
+      "parentId": "2",
+      "senderType": "user",
+      "senderName": "Дмитрий Волков",
+      "senderAvatar": "/images/content/avatar/3.png",
+      "text": "Работаете ли вы в выходные дни?",
+      "date": "18.02.26 11:00"
+    },
+    {
+      "id": "66",
+      "parentCollection": "orgQna",
+      "parentId": "2",
+      "senderType": "org",
+      "senderName": "Ключник",
+      "senderAvatar": "/images/content/company/1.png",
+      "text": "Уважаемый(ая) [Имя клиента]! Ваша заявка №[номер] принята. Мастер [Имя Мастера] выехал к вам по адресу [Адрес]. Ориентировочное время прибытия: 15-20 мин. Его контактный телефон: +7 (915) 123-45-67. Трекер поездки: [ссылка на трекер]. Служба «Ключник».",
+      "date": "18.02.26 15:00"
+    },
+    {
+      "id": "67",
+      "parentCollection": "orgQna",
+      "parentId": "3",
+      "senderType": "user",
+      "senderName": "Анна Сидорова",
+      "senderAvatar": "/images/content/avatar/2.png",
+      "text": "Сколько стоит срочное изготовление ключа?",
+      "date": "20.02.26 14:30"
+    },
+    {
+      "id": "3938",
+      "parentCollection": "orgQna",
+      "parentId": "3",
+      "senderType": "org",
+      "senderName": "Ключник",
+      "senderAvatar": "/images/content/company/1.png",
+      "text": "Уважаемый(ая) [Имя клиента]! Ваша заявка №[номер] принята. Мастер [Имя Мастера] выехал к вам по адресу [Адрес]. Ориентировочное время прибытия: 15-20 мин. Его контактный телефон: +7 (915) 123-45-67. Трекер поездки: [ссылка на трекер]. Служба «Ключник».",
+      "date": "20.02.26 15:10"
+    },
+    {
+      "id": "68",
+      "parentCollection": "orgQna",
+      "parentId": "4",
+      "senderType": "user",
+      "senderName": "Сергей Новиков",
+      "senderAvatar": "/images/content/avatar/3.png",
+      "text": "Можете ли вы открыть замок без ключа?",
+      "date": "19.02.26 10:00"
+    },
+    {
+      "id": "69",
+      "parentCollection": "orgQna",
+      "parentId": "4",
+      "senderType": "org",
+      "senderName": "Ключник",
+      "senderAvatar": "/images/content/company/1.png",
+      "text": "Уважаемый(ая) [Имя клиента]! Ваша заявка №[номер] принята. Мастер [Имя Мастера] выехал к вам по адресу [Адрес]. Ориентировочное время прибытия: 15-20 мин. Его контактный телефон: +7 (915) 123-45-67. Трекер поездки: [ссылка на трекер]. Служба «Ключник».",
+      "date": "19.02.26 11:30"
+    },
+    {
       "id": "70",
       "parentCollection": "orgQna",
       "parentId": "5",
@@ -33781,6 +33527,16 @@
       "senderAvatar": "/images/content/avatar/11.png",
       "text": "Работаете ли вы в выходные дни?",
       "date": "06.02.26 13:00"
+    },
+    {
+      "id": "3937",
+      "parentCollection": "orgQna",
+      "parentId": "1",
+      "senderType": "org",
+      "senderName": "Ключник",
+      "senderAvatar": "/images/content/company/1.png",
+      "text": "Уважаемый(ая) [Имя клиента]! Ваша заявка №[номер] принята. Мастер [Имя Мастера] выехал к вам по адресу [Адрес]. Ориентировочное время прибытия: 15-20 мин. Его контактный телефон: +7 (915) 123-45-67. Трекер поездки: [ссылка на трекер]. Служба «Ключник».",
+      "date": "26.02.26 13:39"
     },
     {
       "id": "2e19",
@@ -34168,11 +33924,6 @@
       "id": "b618",
       "userId": "1",
       "organizationId": "1"
-    },
-    {
-      "id": "18dc",
-      "userId": "1",
-      "organizationId": "1"
     }
   ],
   "reports": [
@@ -34287,9 +34038,9 @@
       "isCompanyOwner": true,
       "parentReplyId": null,
       "replyToName": "Антон Б.",
-      "text": "Здравствуйте",
+      "text": "Здравствуйте!",
       "publishedAt": "26.05.2026 12:03",
-      "editedAt": "2026-06-22T13:32:07.685Z",
+      "editedAt": null,
       "createdAt": "2026-05-26T09:03:57.570Z"
     },
     {
