@@ -33,26 +33,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -410,21 +390,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -689,16 +654,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -958,26 +913,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -1445,26 +1380,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -1693,21 +1608,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -1960,16 +1860,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -2230,11 +2120,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -2769,26 +2654,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -2998,21 +2863,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -3236,16 +3086,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -3465,11 +3305,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -3927,26 +3762,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -4163,21 +3978,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -4420,16 +4220,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -4672,11 +4462,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -5129,26 +4914,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -5370,21 +5135,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -5622,16 +5372,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -5870,11 +5610,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -6366,26 +6101,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -6628,21 +6343,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -6857,16 +6557,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -7115,11 +6805,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -7553,26 +7238,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -7781,21 +7446,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -8028,11 +7678,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -8259,11 +7904,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -8482,24 +8122,9 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -8727,26 +8352,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -8968,21 +8573,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -9199,16 +8789,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -9476,11 +9056,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -9922,26 +9497,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -10153,21 +9708,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -10388,16 +9928,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -10622,11 +10152,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -11084,26 +10609,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -11342,21 +10847,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -11594,16 +11084,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -11835,11 +11315,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -12297,26 +11772,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -12549,21 +12004,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -12784,16 +12224,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -13030,11 +12460,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -13499,26 +12924,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -13756,21 +13161,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -13989,16 +13379,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -14224,11 +13604,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -14694,26 +14069,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -14924,21 +14279,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -15166,16 +14506,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -15396,11 +14726,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -15857,26 +15182,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -16098,21 +15403,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -16329,16 +15619,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -16603,11 +15883,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -17066,26 +16341,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -17307,21 +16562,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -17559,16 +16799,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -17795,11 +17025,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -18253,26 +17478,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -18512,21 +17717,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -18763,16 +17953,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -19010,11 +18190,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -19460,26 +18635,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -19696,21 +18851,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -19936,16 +19076,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -20194,11 +19324,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -20673,26 +19798,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -20924,21 +20029,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -21159,16 +20249,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -21401,11 +20481,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -21857,26 +20932,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -22087,21 +21142,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -22322,16 +21362,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -22563,11 +21593,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -23054,26 +22079,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -23319,21 +22324,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -23566,16 +22556,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -23812,11 +22792,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -24278,26 +23253,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -24519,21 +23474,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -24759,16 +23699,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -25011,11 +23941,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -25455,26 +24380,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -25714,21 +24619,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -25947,16 +24837,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -26205,11 +25085,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -26651,26 +25526,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -26905,21 +25760,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -27170,16 +26010,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -27417,11 +26247,6 @@
           "name": "Viber",
           "icon": "/images/icons/social/viber.svg",
           "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -27885,26 +26710,6 @@
           "name": "Telegram",
           "icon": "/images/icons/social/telegram.svg",
           "link": "https://web.telegram.org/"
-        },
-        {
-          "name": "VK",
-          "icon": "/images/icons/social/vk.svg",
-          "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -28147,21 +26952,6 @@
           "name": "VK",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
-        },
-        {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -28402,16 +27192,6 @@
           "name": "WhatsApp",
           "icon": "/images/icons/social/whatsapp.svg",
           "link": "https://www.whatsapp.com/?lang=ru"
-        },
-        {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
-        },
-        {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
         }
       ],
       "categoriesid": [
@@ -34174,6 +32954,11 @@
       "id": "18dc",
       "userId": "1",
       "organizationId": "1"
+    },
+    {
+      "id": "00fe",
+      "userId": "1",
+      "organizationId": "25"
     }
   ],
   "reports": [
