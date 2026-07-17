@@ -15,26 +15,19 @@
       "grade": 4.8,
       "gradeText": "качественно",
       "reviews": 17,
-      "opening": "ежедневно с 08:00 - 18:00",
+      "opening": "ежедневно с 08:00 - 18:59",
       "whenopen": "откроется через 10 минут",
       "city": "Балашиха, Реутов, Троицк",
       "price": 500,
       "fixPrice": true,
       "tips": [
         "есть гарантии",
-        "есть скидки и акции",
-        "работа по договору"
+        "есть скидки и акции"
       ],
       "favorite": true,
       "hasReview": true,
       "mobile": "+7 (029) 504-76-85",
-      "social": [
-        {
-          "name": "Telegram",
-          "icon": "/images/icons/social/telegram.svg",
-          "link": "https://web.telegram.org/"
-        }
-      ],
+      "social": [],
       "categoriesid": [
         "1",
         "2",
@@ -75,7 +68,7 @@
           ]
         }
       ],
-      "guarantee": "Организация предоставляет гарантию от 6 до 36 месяцев",
+      "guarantee": "12 месяцев",
       "contractWork": false,
       "views": 189987,
       "updated": "Последнее обновление вчера 18:00",
@@ -157,7 +150,7 @@
           "confirm": false,
           "img": "/images/content/photo/1.jpg",
           "name": "40% на вскрытие замков",
-          "tip": "Спецакция",
+          "tip": "другое",
           "time": "29.06.26",
           "description": "40% на вскрытие замков Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
         },
@@ -166,7 +159,7 @@
           "confirm": false,
           "img": "/images/content/photo/1.jpg",
           "name": "40% на вскрытие замков",
-          "tip": "Промокод",
+          "tip": "скидка",
           "time": "02.02.26",
           "description": "40% на вскрытие замков Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
         },
@@ -175,7 +168,7 @@
           "confirm": false,
           "img": "/images/content/photo/1.jpg",
           "name": "40% на вскрытие замков",
-          "tip": "Промокод",
+          "tip": "скидка",
           "time": "29.05.27",
           "description": "40% на вскрытие замков Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
         },
@@ -184,7 +177,7 @@
           "confirm": false,
           "img": "/images/content/photo/1.jpg",
           "name": "40% на вскрытие замков",
-          "tip": "Промокод",
+          "tip": "скидка",
           "time": "31.12.99",
           "description": "40% на вскрытие замков Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
         },
@@ -193,7 +186,7 @@
           "confirm": false,
           "img": "/images/content/photo/1.jpg",
           "name": "40% на вскрытие замков",
-          "tip": "Спецакция",
+          "tip": "другое",
           "time": "29.06.26",
           "description": "40% на вскрытие замков Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
         }
@@ -351,7 +344,195 @@
       "guaranteeType": "fixed",
       "guaranteeMonths": 12,
       "guaranteeFrom": null,
-      "guaranteeTo": null
+      "guaranteeTo": null,
+      "monthlySchedule": {
+        "year": 2026,
+        "month": 7,
+        "grid": [
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        ]
+      }
     },
     {
       "id": "3",
@@ -387,7 +568,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -646,14 +827,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -738,7 +919,7 @@
           "confirm": true,
           "img": "/images/content/promo/1.png",
           "name": "При заказе ремонта замка,  замок в подарок",
-          "tip": "Спецакция",
+          "tip": "другое",
           "time": "26.04.26",
           "description": "При заказе ремонта замка, замок в подарок При заказе ремонта замка, замок в подарок Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
         },
@@ -747,7 +928,7 @@
           "confirm": true,
           "img": "/images/content/promo/1.png",
           "name": "Ремонта замка, замок",
-          "tip": "Промокод",
+          "tip": "скидка",
           "time": "27.04.26",
           "description": "Ремонта замка, замок в подарок Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
         },
@@ -756,7 +937,7 @@
           "confirm": true,
           "img": "",
           "name": "Ремонта замка, замок",
-          "tip": "Промокод",
+          "tip": "скидка",
           "time": "27.04.27",
           "description": "Ремонта замка, замок Предложение действует при наличии свободных окон в расписании, детали и условия акции уточняйте у менеджера при подтверждении заказа."
         }
@@ -1114,24 +1295,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -1605,7 +1786,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -1852,14 +2033,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -2107,19 +2288,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -2349,24 +2530,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -2860,7 +3041,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -3078,14 +3259,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -3292,19 +3473,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -3539,24 +3720,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -3975,7 +4156,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -4212,14 +4393,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -4449,19 +4630,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -4686,24 +4867,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -5132,7 +5313,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -5364,14 +5545,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -5597,19 +5778,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -5851,24 +6032,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -6340,7 +6521,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -6549,14 +6730,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -6792,19 +6973,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -7011,24 +7192,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -7443,7 +7624,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -7665,19 +7846,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -7891,19 +8072,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -8122,9 +8303,9 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -8570,7 +8751,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -8781,14 +8962,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -9043,19 +9224,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -9263,24 +9444,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -9705,7 +9886,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -9920,14 +10101,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -10139,19 +10320,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -10387,24 +10568,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -10844,7 +11025,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -11076,14 +11257,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -11302,19 +11483,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -11546,24 +11727,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -12001,7 +12182,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -12216,14 +12397,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -12447,19 +12628,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -12672,24 +12853,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -13158,7 +13339,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -13371,14 +13552,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -13591,19 +13772,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -13835,24 +14016,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -14276,7 +14457,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -14498,14 +14679,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -14713,19 +14894,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -14960,24 +15141,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -15400,7 +15581,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -15611,14 +15792,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -15870,19 +16051,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -16095,24 +16276,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -16559,7 +16740,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -16791,14 +16972,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -17012,19 +17193,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -17249,24 +17430,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -17714,7 +17895,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -17945,14 +18126,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -18177,19 +18358,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -18402,24 +18583,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -18848,7 +19029,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -19068,14 +19249,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -19311,19 +19492,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -19559,24 +19740,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -20026,7 +20207,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -20241,14 +20422,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -20468,19 +20649,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -20705,24 +20886,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -21139,7 +21320,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -21354,14 +21535,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -21580,19 +21761,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -21835,24 +22016,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -22321,7 +22502,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -22548,14 +22729,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -22779,19 +22960,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -23015,24 +23196,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -23471,7 +23652,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -23691,14 +23872,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -23928,19 +24109,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -24153,24 +24334,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -24616,7 +24797,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -24829,14 +25010,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -25072,19 +25253,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -25298,24 +25479,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -25757,7 +25938,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -26002,14 +26183,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -26234,19 +26415,19 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         }
       ],
       "categoriesid": [
@@ -26480,24 +26661,24 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         },
         {
-          "name": "Viber",
-          "icon": "/images/icons/social/viber.svg",
-          "link": "https://www.viber.com/ru/"
+          "name": "RUTUBE",
+          "icon": "/images/icons/social/rutube.svg",
+          "link": "https://rutube.ru/"
         },
         {
-          "name": "Facebook",
-          "icon": "/images/icons/social/facebook.svg",
-          "link": "https://www.facebook.com/"
+          "name": "YouTube",
+          "icon": "/images/icons/social/youtube.svg",
+          "link": "https://www.youtube.com/"
         }
       ],
       "categoriesid": [
@@ -26949,7 +27130,7 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         }
@@ -27184,14 +27365,14 @@
           "link": "https://web.telegram.org/"
         },
         {
-          "name": "VK",
+          "name": "Вконтакте",
           "icon": "/images/icons/social/vk.svg",
           "link": "https://vk.com/"
         },
         {
-          "name": "WhatsApp",
-          "icon": "/images/icons/social/whatsapp.svg",
-          "link": "https://www.whatsapp.com/?lang=ru"
+          "name": "MAX",
+          "icon": "/images/icons/social/max.svg",
+          "link": "https://max.ru/"
         }
       ],
       "categoriesid": [
@@ -30946,7 +31127,7 @@
       "url": "https://rew.ru",
       "userId": "1",
       "createdAt": "2026-05-22T15:39:55.295Z",
-      "status": "pending"
+      "status": "added"
     },
     {
       "id": "6eaf",
@@ -30967,14 +31148,14 @@
       "url": "https://test.ru",
       "userId": "1",
       "createdAt": "2026-06-01T11:51:27.544Z",
-      "status": "pending"
+      "status": "added"
     },
     {
       "id": "f06a",
       "url": "https://капапв",
       "userId": "1",
       "createdAt": "2026-06-05T07:45:02.858Z",
-      "status": "pending"
+      "status": "rejected"
     },
     {
       "id": "c778",
@@ -30988,14 +31169,14 @@
       "url": "https://ter.ru",
       "userId": "1",
       "createdAt": "2026-06-05T08:05:14.289Z",
-      "status": "pending"
+      "status": "added"
     },
     {
       "id": "ec1c",
       "url": "https://test-add.com",
       "userId": "1",
       "createdAt": "2026-06-17T07:00:00.000Z",
-      "status": "pending"
+      "status": "rejected"
     },
     {
       "id": "fab5",
@@ -31009,14 +31190,14 @@
       "url": "https://mobile-step2-test.com",
       "userId": "1",
       "createdAt": "2026-06-17T07:50:49.678Z",
-      "status": "pending"
+      "status": "added"
     },
     {
       "id": "ccfa",
       "url": "https://step2-check.com",
       "userId": "1",
       "createdAt": "2026-06-17T07:59:51.072Z",
-      "status": "pending"
+      "status": "rejected"
     },
     {
       "id": "d00c",
@@ -31030,14 +31211,14 @@
       "url": "https://wefewfwe",
       "userId": "1",
       "createdAt": "2026-06-17T08:01:09.664Z",
-      "status": "pending"
+      "status": "added"
     },
     {
       "id": "8b98",
       "url": "https://regfergerg",
       "userId": "1",
       "createdAt": "2026-06-17T08:03:22.180Z",
-      "status": "pending"
+      "status": "rejected"
     },
     {
       "id": "c609",
@@ -31051,14 +31232,14 @@
       "url": "https://fdgdfegd",
       "userId": "1",
       "createdAt": "2026-06-17T08:10:52.651Z",
-      "status": "pending"
+      "status": "added"
     },
     {
       "id": "3a7a",
       "url": "https://hrthtrh",
       "userId": "1",
       "createdAt": "2026-06-17T08:13:36.470Z",
-      "status": "pending"
+      "status": "rejected"
     },
     {
       "id": "cbb3",
@@ -31072,7 +31253,7 @@
       "url": "https://werrfwtew",
       "userId": "8f8e",
       "createdAt": "2026-06-18T10:05:53.502Z",
-      "status": "pending"
+      "status": "added"
     }
   ],
   "messages": [
